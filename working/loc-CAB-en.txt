@@ -1235,11 +1235,11 @@
       },
       {
         "id": 647,
-        "text": "Forest"
+        "text": "숲"
       },
       {
         "id": 648,
-        "text": "Plains"
+        "text": "들"
       },
       {
         "id": 650,
@@ -1247,11 +1247,11 @@
       },
       {
         "id": 652,
-        "text": "Island"
+        "text": "섬"
       },
       {
         "id": 653,
-        "text": "Swamp"
+        "text": "늪"
       },
       {
         "id": 655,
@@ -2031,7 +2031,7 @@
       },
       {
         "id": 1250,
-        "text": "Mountain"
+        "text": "산"
       },
       {
         "id": 1253,
@@ -6371,7 +6371,7 @@
       },
       {
         "id": 173532,
-        "text": "Adanto Vanguard"
+        "text": "아단토 선봉대"
       },
       {
         "id": 173533,
@@ -10819,7 +10819,7 @@
       },
       {
         "id": 227027,
-        "text": "History of Benalia"
+        "text": "베날리아의 역사"
       },
       {
         "id": 227029,
@@ -10835,11 +10835,11 @@
       },
       {
         "id": 227032,
-        "text": "Knight of Grace"
+        "text": "은혜의 기사"
       },
       {
         "id": 227033,
-        "text": "A light to pierce the shadows."
+        "text": "어둠을 꿰뚫기 위한 빛."
       },
       {
         "id": 227034,
@@ -12727,7 +12727,7 @@
       },
       {
         "id": 227513,
-        "text": "Teferi, Hero of Dominaria"
+        "text": "도미나리아의 영웅 테페리"
       },
       {
         "id": 227514,
@@ -13515,7 +13515,7 @@
       },
       {
         "id": 229377,
-        "text": "Ajani's Welcome"
+        "text": "아자니의 환대"
       },
       {
         "id": 229378,
@@ -19219,11 +19219,11 @@
       },
       {
         "id": 263749,
-        "text": "Island Swamp"
+        "text": "섬 늪"
       },
       {
         "id": 263759,
-        "text": "Forest Plains"
+        "text": "숲 들"
       },
       {
         "id": 263797,
@@ -21799,7 +21799,7 @@
       },
       {
         "id": 273137,
-        "text": "Find // Finality"
+        "text": "색출 // 종극"
       },
       {
         "id": 273138,
@@ -21807,11 +21807,11 @@
       },
       {
         "id": 273139,
-        "text": "Find"
+        "text": "색출"
       },
       {
         "id": 273140,
-        "text": "Finality"
+        "text": "종극"
       },
       {
         "id": 273141,
@@ -22059,11 +22059,11 @@
       },
       {
         "id": 273203,
-        "text": "Swamp Forest"
+        "text": "늪 숲"
       },
       {
         "id": 273205,
-        "text": "Mountain Plains"
+        "text": "산 들"
       },
       {
         "id": 273207,
@@ -22071,7 +22071,7 @@
       },
       {
         "id": 273208,
-        "text": "Island Mountain"
+        "text": "섬 산"
       },
       {
         "id": 273212,
@@ -23407,7 +23407,7 @@
       },
       {
         "id": 281144,
-        "text": "Raid"
+        "text": "습격"
       },
       {
         "id": 281412,
