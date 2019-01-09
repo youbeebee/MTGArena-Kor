@@ -1,21 +1,21 @@
 ﻿## <주의사항>
  * 본 패치는 아레나 클라이언트를 직접 수정합니다. 패치 적용시 이에 대한 위험을 감수하는 것으로 간주합니다.
  * 아레나의 폰트가 기존의 Belaren체에서 NotoSans체로 변경됩니다.
- * **적용시 덱 Export 및 Import 기능이 제대로 동작하지 않게 됩니다.**
- * 아레나 업데이트시 다시 초기화될 수 있습니다. 이런 경우 롤백 후 새로운 패치가 나올 때까지 기다려주세요.
- * 번역실수 및 버그 제보는 본인에게 해주세요.
+ * **덱 Export 및 Import 기능이 제대로 동작하지 않게 됩니다.** 수동으로 덱빌딩을 하셔야 합니다.
+ * 아레나 업데이트시 다시 영어로 초기화될 수 있습니다. 이런 경우 롤백 후 새로운 패치가 나올 때까지 기다려주세요.
+ * 번역실수, 미번역 및 버그 제보는 본인에게 해주세요.
 
 ## <패치적용방법>
 ※ 롤백을 위해 패치적용 전 해당 폴더 내의 `resources.assets`와 `sharedassets0.assets` 파일을 다른 곳에 백업해둘 것.
 
-`modified` 폴더 내의 파일을 그대로 복사해서 아레나 설치폴더 내의 `MTGA_Data`에 복사한다. (덮어쓸까요?라는 질문에 yes)
+ 1. `modified` 폴더 내의 파일을 그대로 복사해서 아레나 설치폴더 내의 `MTGA_Data`에 복사한다. (덮어쓸까요?라는 질문에 yes)
 
  * 설치폴더(기본): `C:\Program Files (x86)\Wizards of the Coast\MTGA\MTGA_Data`
 
 ## <롤백방법>
- * 백업해둔 원본 `resources.assets`와 `sharedassets0.assets` 파일을 설치폴더에 다시 덮어씌운다. 
- * `<설치폴더>\Downloads\AssetBundle`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
- * 아레나를 다시 실행한다.
+ 1. 백업해둔 원본 `resources.assets`와 `sharedassets0.assets` 파일을 설치폴더에 다시 덮어씌운다. 
+ 1. `<설치폴더>\Downloads\AssetBundle`에 있는 `data_loc_*.mtga` 파일을 삭제한다.
+ 1. 아레나를 다시 실행한다.
 
 
 ## Change Log
