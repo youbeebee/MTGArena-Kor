@@ -30,10 +30,11 @@ if __name__ == "__main__":
 
     print("Make downloads.manifest")
     manifest_template = file_as_bytes(open(manifest_template_name, 'rb'))
-    
-    content_new = manifest_template.decode().replace('file_length_here', str(file_size))
-    content_new = content_new.replace('file_hash_here', file_hash)
-    content_new = content_new.replace('\r\n', '\n')
+
+    content_new = manifest_template.decode() \
+                .replace('file_length_here', str(file_size)) \
+                .replace('file_hash_here', file_hash) \
+                .replace('\r\n', '\n')
 
     new_manifest = open("./downloads.manifest", 'w')
     new_manifest.write(content_new)
