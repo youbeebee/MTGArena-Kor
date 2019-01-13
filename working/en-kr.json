@@ -727,19 +727,19 @@
     },
     {
       "en": "Urza's",
-      "kr": "Urza's"
+      "kr": "우르자의"
     },
     {
       "en": "Mine",
-      "kr": "Mine"
+      "kr": "광산"
     },
     {
       "en": "Tower",
-      "kr": "Tower"
+      "kr": "탑"
     },
     {
       "en": "Power-Plant",
-      "kr": "Power-Plant"
+      "kr": "발전소"
     },
     {
       "en": "Aura",
@@ -807,11 +807,11 @@
     },
     {
       "en": "Assembly-Worker",
-      "kr": "Assembly-Worker"
+      "kr": "조립공"
     },
     {
       "en": "Construct",
-      "kr": "Construct"
+      "kr": "자동기계"
     },
     {
       "en": "When CARDNAME enters the battlefield, it explores.",
@@ -1123,7 +1123,7 @@
     },
     {
       "en": "Artificer",
-      "kr": "Artificer"
+      "kr": "기능공"
     },
     {
       "en": "{o7oU}, {oT}, Sacrifice CARDNAME: Draw three cards.",
@@ -1179,7 +1179,7 @@
     },
     {
       "en": "Horror",
-      "kr": "Horror"
+      "kr": "괴수"
     },
     {
       "en": "\"They shall give us all they have as penance for their resistance. Their ships. Their goods. Their rebellious blood.\"",
@@ -3147,7 +3147,7 @@
     },
     {
       "en": "Homarid",
-      "kr": "Homarid"
+      "kr": "호마리드"
     },
     {
       "en": "Graveborn",
@@ -4595,7 +4595,7 @@
     },
     {
       "en": "Zombie Horror",
-      "kr": "Zombie Horror"
+      "kr": "좀비 괴수"
     },
     {
       "en": "It's pointless to hold on when you have nothing to hold on with.",
@@ -15327,7 +15327,7 @@
     },
     {
       "en": "{oT}, Sacrifice this artifact: Add one mana of any color.",
-      "kr": "{oT}, Sacrifice this artifact: Add one mana of any color."
+      "kr": "{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다."
     },
     {
       "en": "As an additional cost to cast this spell, discard a card.",
@@ -19047,7 +19047,7 @@
     },
     {
       "en": "Beast Horror",
-      "kr": "Beast Horror"
+      "kr": "야수 괴수"
     },
     {
       "en": "Vampire Scout",
@@ -19099,7 +19099,7 @@
     },
     {
       "en": "Homarid Scout",
-      "kr": "Homarid Scout"
+      "kr": "호마리드 정찰병"
     },
     {
       "en": "Merfolk Soldier",
