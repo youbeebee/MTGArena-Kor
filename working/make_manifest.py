@@ -3,6 +3,7 @@ Util script for MTGA localization.
 Author: B.F.M.
 
 "data_loc_*.mtga" 파일을 통해 downloads.manifest 파일을 수정해준다.
+업데이트마다 data_loc파일 이름과 매니페스트 템플릿 파일 내용 수정 필요.
 """
 import hashlib
 import os
@@ -19,8 +20,9 @@ def get_size(full_path):
     return statinfo.st_size
 
 if __name__ == "__main__":
+    template_path = "./template/"
     full_path = "./data_loc_333ad7faf94b7025fc22655c7299e770.mtga"
-    manifest_template_name = "./template_downloads.manifest"
+    manifest_template_name = template_path+"template_downloads.manifest"
 
     file_hash = get_md5(full_path)
     file_size = get_size(full_path)
