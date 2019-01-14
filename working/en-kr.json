@@ -1,5 +1,5 @@
 {
-  "version": "20190113",
+  "version": "20190114",
   "tokens": [
     {
       "en": "Basic",
@@ -907,7 +907,7 @@
     },
     {
       "en": "Thopter",
-      "kr": "Thopter"
+      "kr": "날틀"
     },
     {
       "en": "Paladin of the Bloodstained",
@@ -1027,7 +1027,7 @@
     },
     {
       "en": "Drone",
-      "kr": "Drone"
+      "kr": "드론"
     },
     {
       "en": "Gain control of target creature with converted mana cost X.",
@@ -1079,7 +1079,7 @@
     },
     {
       "en": "Chimera",
-      "kr": "Chimera"
+      "kr": "키메라"
     },
     {
       "en": "The truth came to Kumena like the Great River's torrent: the only way to keep his enemies away from the hidden city was to claim its power for himself.",
@@ -1139,7 +1139,7 @@
     },
     {
       "en": "Fish",
-      "kr": "Fish"
+      "kr": "어류"
     },
     {
       "en": "\"My conquistadors are never slain, merely laid to rest.\"\\n—Queen Miralda the Pious",
@@ -1223,7 +1223,7 @@
     },
     {
       "en": "Jellyfish",
-      "kr": "Jellyfish"
+      "kr": "해파리"
     },
     {
       "en": "Despite their noble heritage, the pirates of the Deadeye Fleet are known for underhanded tactics and despicable trickery.",
@@ -1431,7 +1431,7 @@
     },
     {
       "en": "Myr",
-      "kr": "Myr"
+      "kr": "미르"
     },
     {
       "en": "\"Forward! Let the Burning Sun's light guide you to deserving prey!\"",
@@ -3603,7 +3603,7 @@
     },
     {
       "en": "Goblin Wizard",
-      "kr": "Goblin Wizard"
+      "kr": "고블린 마법사"
     },
     {
       "en": "Phelddagrif",
@@ -3627,11 +3627,11 @@
     },
     {
       "en": "Manticore",
-      "kr": "Manticore"
+      "kr": "만티코어"
     },
     {
       "en": "Satyr",
-      "kr": "Satyr"
+      "kr": "사티로스"
     },
     {
       "en": "Destroy target attacking creature.",
@@ -19227,7 +19227,7 @@
     },
     {
       "en": "Satyr Druid",
-      "kr": "Satyr Druid"
+      "kr": "사티로스 드루이드"
     },
     {
       "en": "Zombie Gorgon",

@@ -26,10 +26,12 @@ if __name__ == "__main__":
 
     print("Replacing...")
     for token in data['tokens']:
-        en_token = '"'+token['en'].replace('"', '\\"')+'"'
+        if token['en'] == token['kr']: # 번역되지 않은 토큰은 넘어감
+            continue
+        en_token = '"'+token['en'].replace('"', '\\"')+'"'  # 따옴표 처리
         kr_token = '"'+token['kr'].replace('"', '\\"')+'"'
         template_file = template_file.replace(en_token.encode(), kr_token.encode())
-    #template_file = template_file.replace(b'\\"', b'\\\\"')  # 따옴표 변경
+
     template_file = template_file.replace(b'\r\n', b'\\r\\n')  # 파일의 개행문자를 텍스트로 변경
 
     print("Merging...")
