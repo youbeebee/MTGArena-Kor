@@ -663,7 +663,7 @@
     },
     {
       "en": "Avatar",
-      "kr": "아바타"
+      "kr": "화신"
     },
     {
       "en": "Minion",
@@ -2239,7 +2239,7 @@
     },
     {
       "en": "Leech",
-      "kr": "Leech"
+      "kr": "거머리"
     },
     {
       "en": "Druid",
@@ -2255,19 +2255,19 @@
     },
     {
       "en": "Hyena",
-      "kr": "Hyena"
+      "kr": "하이에나"
     },
     {
       "en": "Aetherborn",
-      "kr": "Aetherborn"
+      "kr": "에테르붙이"
     },
     {
       "en": "Hellion",
-      "kr": "Hellion"
+      "kr": "헬리온"
     },
     {
       "en": "Gremlin",
-      "kr": "Gremlin"
+      "kr": "그렘린"
     },
     {
       "en": "Hydra",
@@ -2307,7 +2307,7 @@
     },
     {
       "en": "Efreet",
-      "kr": "Efreet"
+      "kr": "이프리트"
     },
     {
       "en": "Choose a noncreature, nonland card.",
@@ -2327,7 +2327,7 @@
     },
     {
       "en": "Treefolk",
-      "kr": "Treefolk"
+      "kr": "인목"
     },
     {
       "en": "Nature's Spiral",
@@ -2819,7 +2819,7 @@
     },
     {
       "en": "Antelope",
-      "kr": "Antelope"
+      "kr": "영양"
     },
     {
       "en": "Creatures you control get +1/+1 until end of turn.",
@@ -2843,7 +2843,7 @@
     },
     {
       "en": "Cyclops",
-      "kr": "Cyclops"
+      "kr": "키클롭스"
     },
     {
       "en": "Nomad",
@@ -4383,7 +4383,7 @@
     },
     {
       "en": "Dragon Egg",
-      "kr": "Dragon Egg"
+      "kr": "드래곤 알"
     },
     {
       "en": "Dragon birth lairs are littered with treasure to entice the young from their eggs.",
@@ -19967,7 +19967,7 @@
     },
     {
       "en": "Insect Warrior",
-      "kr": "Insect Warrior"
+      "kr": "곤충 전사"
     },
     {
       "en": "{o2oB}, Discard a creature card: Return CARDNAME from your graveyard to your hand.",
@@ -20099,7 +20099,7 @@
     },
     {
       "en": "Zombie Lizard",
-      "kr": "Zombie Lizard"
+      "kr": "좀비 도마뱀"
     },
     {
       "en": "{o1}, Sacrifice another creature: Put a +1/+1 counter on CARDNAME. It gains menace until end of turn. Activate this ability only any time you could cast a sorcery.",
@@ -20159,7 +20159,7 @@
     },
     {
       "en": "Minotaur Soldier",
-      "kr": "Minotaur Soldier"
+      "kr": "미노타우로스 병사"
     },
     {
       "en": "Book Devourer",
@@ -20219,7 +20219,7 @@
     },
     {
       "en": "Cyclops Shaman",
-      "kr": "Cyclops Shaman"
+      "kr": "키클롭스 주술사"
     },
     {
       "en": "Whenever you cast an instant or sorcery spell, CARDNAME gets +X/+0 until end of turn, where X is that spell's converted mana cost.",
@@ -20551,7 +20551,7 @@
     },
     {
       "en": "Insect Scout",
-      "kr": "Insect Scout"
+      "kr": "곤충 정찰병"
     },
     {
       "en": "<i>Undergrowth</i> — When CARDNAME enters the battlefield, you gain 1 life for each creature card in your graveyard.",

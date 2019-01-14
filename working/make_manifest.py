@@ -21,7 +21,7 @@ def get_size(full_path):
 
 if __name__ == "__main__":
     template_path = "./template/"
-    full_path = template_path+"data_loc_333ad7faf94b7025fc22655c7299e770.mtga"
+    full_path = "data_loc_333ad7faf94b7025fc22655c7299e770.mtga"
     manifest_template_name = template_path+"template_downloads.manifest"
 
     file_hash = get_md5(full_path)
