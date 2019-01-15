@@ -1541,12 +1541,12 @@
     "kr": "하나를 선택한다 —"
   },
   {
-    "en": "• Fiery Intervention deals 5 damage to target creature.",
-    "kr": "• 생물을 목표로 정한다. 불같은 개입은 그 생물에게 피해 5점을 입힌다."
+    "en": "Fiery Intervention deals 5 damage to target creature.",
+    "kr": "생물을 목표로 정한다. 불같은 개입은 그 생물에게 피해 5점을 입힌다."
   },
   {
-    "en": "• Destroy target artifact.",
-    "kr": "• 마법물체를 목표로 정한다. 그 마법물체를 파괴한다."
+    "en": "Destroy target artifact.",
+    "kr": "마법물체를 목표로 정한다. 그 마법물체를 파괴한다."
   },
   {
     "en": "Fight with Fire",
@@ -4161,8 +4161,8 @@
     "kr": "폭풍의 현을 퉁기는 그녀의 노래는 바람과 폭풍을 조화롭게 만들어 배를 안전한 곳으로 보낸다."
   },
   {
-    "en": "Lookout's Dispersal costs {o1} less to cast if you control a Pirate.",
-    "kr": "당신이 해적을 조종한다면 파수꾼의 분산은 발동하는 데 {o1}이 덜 든다."
+    "en": "This spell costs {o1} less to cast if you control a Pirate.",
+    "kr": "당신이 해적을 조종한다면 이 주문은 발동하는 데 {o1}이 덜 든다."
   },
   {
     "en": "Counter target spell unless its controller pays {o4}.",
@@ -4605,7 +4605,7 @@
     "kr": "어떤 강철 자물쇠도 브라스카의 돌과 같은 의지를 당해낼 수 없다."
   },
   {
-    "en": "As an additional cost to cast Costly Plunder, sacrifice an artifact or creature.",
+    "en": "As an additional cost to cast this spell, sacrifice an artifact or creature.",
     "kr": "값비싼 약탈을 발동하기 위한 추가비용으로, 마법물체나 생물을 희생한다."
   },
   {
@@ -4617,7 +4617,7 @@
     "kr": "악마들은 고대 유적의 어둠 속에 숨어서 대지에 역병과 부패를 퍼뜨린다."
   },
   {
-    "en": "Dark Nourishment deals 3 damage to target creature or player. You gain 3 life.",
+    "en": "Dark Nourishment deals 3 damage to any target. You gain 3 life.",
     "kr": "생물이나 플레이어를 목표로 정한다. 사악한 양분 섭취는 그 목표에게 피해 3점을 입힌다. 당신은 생명 3점을 얻는다."
   },
   {
@@ -4753,12 +4753,8 @@
     "kr": "비정한 강탈"
   },
   {
-    "en": "Target opponent discards two cards.",
-    "kr": "상대를 목표로 정한다. 그 상대는 카드 두 장을 버린다."
-  },
-  {
-    "en": "<i>Raid</i> — If you attacked with a creature this turn, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
-    "kr": "습격 — 이 턴에 당신이 생물로 공격했다면, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Target opponent discards two cards. <i>Raid</i> — If you attacked with a creature this turn, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "상대를 목표로 정한다. 그 상대는 카드 두 장을 버린다. 습격 — 이 턴에 당신이 생물로 공격했다면, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Kitesail Freebooter",
@@ -4785,12 +4781,12 @@
     "kr": "수장된 자들의 행진"
   },
   {
-    "en": "• Return target creature card from your graveyard to your hand.",
-    "kr": "• 당신의 무덤에 있는 생물 카드를 목표로 정한다. 그 카드를 당신의 손으로 되돌린다."
+    "en": "Return target creature card from your graveyard to your hand.",
+    "kr": "당신의 무덤에 있는 생물 카드를 목표로 정한다. 그 카드를 당신의 손으로 되돌린다."
   },
   {
-    "en": "• Return two target Pirate cards from your graveyard to your hand.",
-    "kr": "• 당신의 무덤에 있는 해적 카드 두 장을 목표로 정한다. 그 카드들을 당신의 손으로 되돌린다."
+    "en": "Return two target Pirate cards from your graveyard to your hand.",
+    "kr": "당신의 무덤에 있는 해적 카드 두 장을 목표로 정한다. 그 카드들을 당신의 손으로 되돌린다."
   },
   {
     "en": "Mark of the Vampire",
@@ -5641,12 +5637,12 @@
     "kr": "\"높은 곳에 있다고 해서 안전하다고 착각하지 말아라.\"\\n—변형술사 투바사"
   },
   {
-    "en": "• Destroy target creature with flying.",
-    "kr": "• 비행을 가진 생물을 목표로 정한다. 그 생물을 파괴한다."
+    "en": "Destroy target creature with flying.",
+    "kr": "비행을 가진 생물을 목표로 정한다. 그 생물을 파괴한다."
   },
   {
-    "en": "• Destroy target enchantment.",
-    "kr": "• 부여마법을 목표로 정한다. 그 부여마법을 파괴한다."
+    "en": "Destroy target enchantment.",
+    "kr": "부여마법을 목표로 정한다. 그 부여마법을 파괴한다."
   },
   {
     "en": "Deathgorge Scavenger",
@@ -6893,8 +6889,8 @@
     "kr": "\"태양은 만들어내고, 유지하며, 소모하여 다시 만들어낸다.\"\\n—태양의 아들 카파록티"
   },
   {
-    "en": "• Destroy target Vampire.",
-    "kr": "• 흡혈귀를 목표로 정한다. 그 흡혈귀를 파괴한다."
+    "en": "Destroy target Vampire.",
+    "kr": "흡혈귀를 목표로 정한다. 그 흡혈귀를 파괴한다."
   },
   {
     "en": "Divine Verdict",
@@ -7101,7 +7097,7 @@
     "kr": "\"야수들을 배 아래에서 베어내면 그것들의 힘은 아무 것도 아니야.\"\\n—마간의 도살자, 이에도의 보나"
   },
   {
-    "en": "Each player chooses any number of creatures they controls with total power 4 or less, then sacrifices all other creatures they controls.",
+    "en": "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.",
     "kr": "각 플레이어는 자신이 조종하는 생물들을 공격력의 총합이 4 이하가 되도록 원하는 만큼 선택한 다음, 자신이 조종하는 다른 모든 생물을 희생한다."
   },
   {
@@ -7477,7 +7473,7 @@
     "kr": "\"승선 당할 준비를 해라.\""
   },
   {
-    "en": "<i>Raid</i> — Siren Reaver costs {o1} less to cast if you attacked with a creature this turn.",
+    "en": "<i>Raid</i> — This spell costs {o1} less to cast if you attacked with a creature this turn.",
     "kr": "습격 — 당신이 이번 턴에 생물로 공격했다면 세이렌 강탈자는 발동하는 비용이 {o1} 덜 든다."
   },
   {
@@ -7713,12 +7709,12 @@
     "kr": "극악한 퍼즐의 또다른 조각이다."
   },
   {
-    "en": "• Search your library for a card, put it into your hand, then shuffle your library.",
-    "kr": "• 당신의 서고에서 카드 한 장을 찾아 당신의 손으로 가져간 후 당신의 서고를 섞는다."
+    "en": "Search your library for a card, put it into your hand, then shuffle your library.",
+    "kr": "당신의 서고에서 카드 한 장을 찾아 당신의 손으로 가져간 후 당신의 서고를 섞는다."
   },
   {
-    "en": "• Choose a card you own from outside the game and put it into your hand.",
-    "kr": "• 게임 밖에서 당신이 소유한 카드 중 한 장을 선택해 당신의 손으로 가져갈 수 있다."
+    "en": "Choose a card you own from outside the game and put it into your hand.",
+    "kr": "게임 밖에서 당신이 소유한 카드 중 한 장을 선택해 당신의 손으로 가져갈 수 있다."
   },
   {
     "en": "Mausoleum Harpy",
@@ -7813,7 +7809,7 @@
     "kr": "\"태양의 아이야, 내가 너를 잡을 것이다. 내가 너의 생명을 마시고 껍데기만을 남겨, 그늘 가운데 버릴 것이다.\""
   },
   {
-    "en": "As an additional cost to cast Sadistic Skymarcher, reveal a Vampire card from your hand or pay {o1}.",
+    "en": "As an additional cost to cast this spell, reveal a Vampire card from your hand or pay {o1}.",
     "kr": "가학적인 하늘진군자를 발동하기 위한 추가비용으로, 당신의 손에서 흡혈귀 카드 한 장을 공개하거나 {o1}을 지불한다."
   },
   {
@@ -7861,7 +7857,7 @@
     "kr": "보나의 굶주림"
   },
   {
-    "en": "Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures they controls, rounded up.",
+    "en": "Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures they control, rounded up.",
     "kr": "각 상대는 생물 한 개를 희생한다. 당신이 도시의 축복을 가지고 있다면, 대신 각 상대는 자신이 조종하는 생물 수의 절반을 올림하여 계산한 뒤 그만큼의 생물을 희생한다."
   },
   {
@@ -7937,12 +7933,12 @@
     "kr": "다시는 자신감의 힘을 무시하지 마라."
   },
   {
-    "en": "• Target creature gets +1/+1 and gains first strike until end of turn.",
-    "kr": "• 생물을 목표로 정한다. 그 생물은 턴종료까지 +1/+1을 받고 선제공격을 얻는다."
+    "en": "Target creature gets +1/+1 and gains first strike until end of turn.",
+    "kr": "생물을 목표로 정한다. 그 생물은 턴종료까지 +1/+1을 받고 선제공격을 얻는다."
   },
   {
-    "en": "• Target Pirate gets +1/+1 and gains double strike until end of turn.",
-    "kr": "• 해적을 목표로 정한다. 그 해적은 턴종료까지 +1/+1을 받고 이단공격을 얻는다."
+    "en": "Target Pirate gets +1/+1 and gains double strike until end of turn.",
+    "kr": "해적을 목표로 정한다. 그 해적은 턴종료까지 +1/+1을 받고 이단공격을 얻는다."
   },
   {
     "en": "Charging Tuskodon",
@@ -7997,8 +7993,8 @@
     "kr": "\"브레이즌 연합은 적들을 향해 겨눠진 대포이다. 저자과 같은 고블린들은 화약에 불을 붙이는 불씨고.\"\\n—베케트 브라스 제독"
   },
   {
-    "en": "{oT}, Sacrifice Fanatical Firebrand: It deals 1 damage to target creature or player.",
-    "kr": "{oT}, 광적인 선동가를 희생한다: 생물이나 플레이어를 목표로 정한다. 광적인 선동가는 그 목표에 피해 1점을 입힌다."
+    "en": "{oT}, Sacrifice Fanatical Firebrand: It deals 1 damage to any target.",
+    "kr": "{oT}, 광적인 선동가를 희생한다: 원하는 목표를 정한다. 광적인 선동가는 그 목표에 피해 1점을 입힌다."
   },
   {
     "en": "Forerunner of the Empire",
@@ -9397,12 +9393,12 @@
     "kr": "최후의 순간에, 악마들은 순수한 모습으로 은총을 갈구했다."
   },
   {
-    "en": "• Destroy all creatures.",
-    "kr": "• 모든 생물을 파괴한다."
+    "en": "Destroy all creatures.",
+    "kr": "모든 생물을 파괴한다."
   },
   {
-    "en": "• Destroy all artifacts and enchantments.",
-    "kr": "• 모든 마법물체와 부여마법을 파괴한다."
+    "en": "Destroy all artifacts and enchantments.",
+    "kr": "모든 마법물체와 부여마법을 파괴한다."
   },
   {
     "en": "Daybreak Chaplain",
@@ -9745,12 +9741,12 @@
     "kr": "태양 정화자가 전장에 들어올 때, 하나를 선택한다 —"
   },
   {
-    "en": "• Remove all counters from target creature. It can't have counters put on it for as long as Suncleanser remains on the battlefield.",
-    "kr": "• 생물을 목표로 정한다. 그 생물에 놓인 카운터를 모두 제거한다. 태양 정화자가 전장에 남아 있는 한 그 생물에 카운터가 놓일 수 없다."
+    "en": "Remove all counters from target creature. It can't have counters put on it for as long as Suncleanser remains on the battlefield.",
+    "kr": "생물을 목표로 정한다. 그 생물에 놓인 카운터를 모두 제거한다. 태양 정화자가 전장에 남아 있는 한 그 생물에 카운터가 놓일 수 없다."
   },
   {
-    "en": "• Target opponent loses all counters. That player can't get counters for as long as Suncleanser remains on the battlefield.",
-    "kr": "• 상대를 목표로 정한다. 그 플레이어는 가진 카운터를 모두 잃는다. 태양 정화자가 전장에 남아 있는 한 그 플레이어는 카운터를 얻을 수 없다."
+    "en": "Target opponent loses all counters. That player can't get counters for as long as Suncleanser remains on the battlefield.",
+    "kr": "상대를 목표로 정한다. 그 플레이어는 가진 카운터를 모두 잃는다. 태양 정화자가 전장에 남아 있는 한 그 플레이어는 카운터를 얻을 수 없다."
   },
   {
     "en": "Take Vengeance",
@@ -12857,12 +12853,12 @@
     "kr": "하나 혹은 둘 다를 선택한다 —"
   },
   {
-    "en": "• Exile target artifact.",
-    "kr": "• 마법물체를 목표로 정한다. 그 마법물체를 추방한다."
+    "en": "Exile target artifact.",
+    "kr": "마법물체를 목표로 정한다. 그 마법물체를 추방한다."
   },
   {
-    "en": "• Exile target enchantment.",
-    "kr": "• 부여마법을 목표로 정한다. 그 부여마법을 추방한다."
+    "en": "Exile target enchantment.",
+    "kr": "부여마법을 목표로 정한다. 그 부여마법을 추방한다."
   },
   {
     "en": "Dawn of Hope",
@@ -13913,12 +13909,12 @@
     "kr": "{o1}, 고블린 구덩이제작꾼을 희생한다: 하나를 선택한다 —"
   },
   {
-    "en": "• Goblin Cratermaker deals 2 damage to target creature.",
-    "kr": "• 생물을 목표로 정한다. 고블린 구덩이제작꾼은 그 생물에게 피해 2점을 입힌다."
+    "en": "Goblin Cratermaker deals 2 damage to target creature.",
+    "kr": "생물을 목표로 정한다. 고블린 구덩이제작꾼은 그 생물에게 피해 2점을 입힌다."
   },
   {
-    "en": "• Destroy target colorless nonland permanent.",
-    "kr": "• 대지가 아닌 무색 지속물을 목표로 정한다. 그 지속물을 파괴한다."
+    "en": "Destroy target colorless nonland permanent.",
+    "kr": "대지가 아닌 무색 지속물을 목표로 정한다. 그 지속물을 파괴한다."
   },
   {
     "en": "Goblin Locksmith",
@@ -14365,12 +14361,12 @@
     "kr": "싹이 돋는 재생"
   },
   {
-    "en": "• Create a 2/2 green and white Elf Knight creature token with vigilance.",
-    "kr": "• 경계를 가진 2/2 녹색 및 백색 엘프 기사 생물 토큰 한 개를 만든다."
+    "en": "Create a 2/2 green and white Elf Knight creature token with vigilance.",
+    "kr": "경계를 가진 2/2 녹색 및 백색 엘프 기사 생물 토큰 한 개를 만든다."
   },
   {
-    "en": "• Destroy target artifact or enchantment.",
-    "kr": "• 마법물체나 부여마법을 목표로 정한다. 그 목표를 파괴한다."
+    "en": "Destroy target artifact or enchantment.",
+    "kr": "마법물체나 부여마법을 목표로 정한다. 그 목표를 파괴한다."
   },
   {
     "en": "Urban Utopia",
@@ -14437,12 +14433,12 @@
     "kr": "디미르 암살자들은 춤 동작같은 움직임을 연습한다. 모든 반항은 우아한 동작으로 대응되며 반격된다."
   },
   {
-    "en": "• Tap target creature.",
-    "kr": "• 생물을 목표로 정한다. 그 생물을 탭한다."
+    "en": "Tap target creature.",
+    "kr": "생물을 목표로 정한다. 그 생물을 탭한다."
   },
   {
-    "en": "• Target creature gets -2/-4 until end of turn.",
-    "kr": "• 생물을 목표로 정한다. 그 생물은 턴종료까지 -2/-4를 받는다."
+    "en": "Target creature gets -2/-4 until end of turn.",
+    "kr": "생물을 목표로 정한다. 그 생물은 턴종료까지 -2/-4를 받는다."
   },
   {
     "en": "Assassin's Trophy",
@@ -14601,12 +14597,12 @@
     "kr": "\"지휘관님, 공격 신호가 무엇입니까?\"\\n\"저절로 알게 될 거다.\""
   },
   {
-    "en": "• Deafening Clarion deals 3 damage to each creature.",
-    "kr": "• 귀를 멀게 하는 나팔 소리는 각 생물에게 피해 3점을 입힌다."
+    "en": "Deafening Clarion deals 3 damage to each creature.",
+    "kr": "귀를 멀게 하는 나팔 소리는 각 생물에게 피해 3점을 입힌다."
   },
   {
-    "en": "• Creatures you control gain lifelink until end of turn.",
-    "kr": "• 당신이 조종하는 생물들은 턴종료까지 생명연결을 얻는다."
+    "en": "Creatures you control gain lifelink until end of turn.",
+    "kr": "당신이 조종하는 생물들은 턴종료까지 생명연결을 얻는다."
   },
   {
     "en": "Dimir Spybug",
@@ -14821,12 +14817,12 @@
     "kr": "가을의 기사가 전장에 들어올 때, 하나를 선택한다 —"
   },
   {
-    "en": "• Put two +1/+1 counters on Knight of Autumn.",
-    "kr": "• 가을의 기사에 +1/+1 카운터 두 개를 올려놓는다."
+    "en": "Put two +1/+1 counters on Knight of Autumn.",
+    "kr": "가을의 기사에 +1/+1 카운터 두 개를 올려놓는다."
   },
   {
-    "en": "• You gain 4 life.",
-    "kr": "• 당신은 생명 4점을 얻는다."
+    "en": "You gain 4 life.",
+    "kr": "당신은 생명 4점을 얻는다."
   },
   {
     "en": "Lazav, the Multifarious",
@@ -15077,7 +15073,7 @@
     "kr": "이성 도둑"
   },
   {
-    "en": "Whenever Thief of Sanity deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. For as long as that card remains exiled, you may look at it, you may cast it, and you may spend mana as though it were mana of any type to cast that spell.",
+    "en": "Whenever Thief of Sanity deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",
     "kr": "이성 도둑이 플레이어에게 전투피해를 입힐 때마다, 그 플레이어의 서고 맨 위 카드 세 장을 보고, 그중 한 장을 뒷면 상태로 추방한 후, 나머지는 그 플레이어의 무덤에 넣는다. 그 카드가 추방된 상태로 남아 있는 한, 당신은 그 카드를 볼 수 있고, 발동할 수 있으며, 그 주문의 발동비용을 지불하기 위한 마나는 원하는 유형의 마나인 것처럼 사용할 수 있다."
   },
   {
