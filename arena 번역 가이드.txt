@@ -17,3 +17,5 @@ https://scryfall.com/search?as=checklist&order=set&q=color%3DW+legal%3Astandard&
 플레이버 텍스트
 
 따옴표 주의!!, 이텔릭체 주의, 심볼 주의
+
+https://scryfall.com/sets/ana

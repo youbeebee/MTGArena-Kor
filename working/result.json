@@ -2925,7 +2925,7 @@
     "kr": "항해사의 나침반"
   },
   {
-    "en": "The Weatherlight can no longer planeshift, but it can traverse Dominaria with ease.",
+    "en": "The <i>Weatherlight</i> can no longer planeshift, but it can traverse Dominaria with ease.",
     "kr": "웨더라이트는 더 이상 차원을 전환할 수 없지만, 도미나리아에서 이동하는 것은 어렵지 않다."
   },
   {
@@ -3837,7 +3837,7 @@
     "kr": "잔해 가라앉히기"
   },
   {
-    "en": "Exile all attacking creatures target player controls. That player may search his or her library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle his or her library.",
+    "en": "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.",
     "kr": "플레이어를 목표로 정한다. 그 플레이어가 조종하는 공격 중인 생물을 모두 추방한다. 그 플레이어는 추방된 생물의 수만큼 자신의 서고에서 기본 대지 카드를 찾아 탭된 채로 전장에 놓을 수 있다. 그렇게 한다면, 그 플레이어는 자신의 서고를 섞는다."
   },
   {
@@ -4037,8 +4037,8 @@
     "kr": "주머니는 금으로 가득하고, 폐는 소금물로 가득하다."
   },
   {
-    "en": "Return target creature to its owner's hand. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "생물을 목표로 정한다. 그 생물을 소유자의 손으로 되돌린다. \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Return target creature to its owner's hand. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "생물을 목표로 정한다. 그 생물을 소유자의 손으로 되돌린다. \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Dive Down",
@@ -4097,7 +4097,7 @@
     "kr": "\"선장님, 저 섬이 우릴 따라오는 것 같습니다.\""
   },
   {
-    "en": "Whenever Fleet Swallower attacks, target player puts the top half of his or her library, rounded up, into his or her graveyard.",
+    "en": "Whenever Fleet Swallower attacks, target player puts the top half of their library, rounded up, into their graveyard.",
     "kr": "선단을 삼키는 괴수가 공격할 때마다, 플레이어를 목표로 정한다. 그 플레이어는 자신의 서고에 있는 카드 수의 절반을 올림하여 계산한 뒤 자신의 서고 위에서부터 그만큼의 카드를 자신의 무덤에 넣는다."
   },
   {
@@ -4177,7 +4177,7 @@
     "kr": "\"이건 너에게 필요 없어. 이것도. 그리고 이것도...\""
   },
   {
-    "en": "<i>Raid</i> — At the beginning of your end step, if you attacked with a creature this turn, target opponent puts the top four cards of his or her library into his or her graveyard.",
+    "en": "<i>Raid</i> — At the beginning of your end step, if you attacked with a creature this turn, target opponent puts the top four cards of their library into their graveyard.",
     "kr": "습격 — 당신의 종료단 시작에, 당신이 이 턴에 생물로 공격했다면, 상대를 목표로 정한다. 그 상대는 자신의 서고 맨 위의 카드 네 장을 자신의 무덤에 넣는다."
   },
   {
@@ -4237,8 +4237,8 @@
     "kr": "약탈만큼 가슴을 따뜻하게 해 주는 것은 없다."
   },
   {
-    "en": "Draw two cards. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "카드 두 장을 뽑는다. \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Draw two cards. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "카드 두 장을 뽑는다. \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Prosperous Pirates",
@@ -4249,8 +4249,8 @@
     "kr": "부유도시 하이 앤 드라이는 아직 금의 무게 때문에 가라앉지는 않았지만, 노력이 부족해서 그런 것은 아니다."
   },
   {
-    "en": "When Prosperous Pirates enters the battlefield, create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "번창한 해적이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
+    "en": "When Prosperous Pirates enters the battlefield, create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "번창한 해적이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
   },
   {
     "en": "River Sneak",
@@ -4301,8 +4301,8 @@
     "kr": "브레이즌 연합에서는 모든 사업이 약탈을 통해 돌아간다."
   },
   {
-    "en": "When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "재력가 선원이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "재력가 선원이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Azcanta, the Sunken Ruin",
@@ -4417,8 +4417,8 @@
     "kr": "주문 사취"
   },
   {
-    "en": "Counter target spell. Create X colorless Treasure artifact tokens, where X is that spell's converted mana cost. They have \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "주문을 목표로 정한다. 그 주문을 무효화한다. 무색 보물 마법물체 토큰 X개를 만든다. X는 그 주문의 전환마나비용이다. 그 토큰들은 \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진다."
+    "en": "Counter target spell. Create X colorless Treasure artifact tokens, where X is that spell's converted mana cost. They have \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "주문을 목표로 정한다. 그 주문을 무효화한다. 무색 보물 마법물체 토큰 X개를 만든다. X는 그 주문의 전환마나비용이다. 그 토큰들은 \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진다."
   },
   {
     "en": "Storm Fleet Aerialist",
@@ -4593,8 +4593,8 @@
     "kr": "부유도시 하이 앤 드라이는 대가만 지불하면 휴식, 오락, 복수 등 해적이 원할 법한 모든 편의를 제공한다."
   },
   {
-    "en": "Destroy target creature. Create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "생물을 목표로 정한다. 그 생물을 파괴한다. \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
+    "en": "Destroy target creature. Create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "생물을 목표로 정한다. 그 생물을 파괴한다. \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
   },
   {
     "en": "Costly Plunder",
@@ -4673,8 +4673,8 @@
     "kr": "브레이즌 연합의 해적들 사이에서, 실패보다 더 위험한 것은 성공뿐이다."
   },
   {
-    "en": "When Dire Fleet Hoarder dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "다이어 선단 비축꾼이 죽을 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "When Dire Fleet Hoarder dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "다이어 선단 비축꾼이 죽을 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Dire Fleet Interloper",
@@ -4697,7 +4697,7 @@
     "kr": "호전적, 치명타"
   },
   {
-    "en": "When Dire Fleet Ravager enters the battlefield, each player loses a third of his or her life, rounded up.",
+    "en": "When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up.",
     "kr": "다이어 선단 유린자가 전장에 들어올 때, 각 플레이어는 자신의 생명점의 삼 분의 일을 올림한 만큼의 생명점을 잃는다."
   },
   {
@@ -4709,7 +4709,7 @@
     "kr": "고독과 굶주림은 잔인한 형벌이지만, 더욱 끔찍한 것은 그 시간 내내 생각을 해야 한다는 것이다."
   },
   {
-    "en": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+    "en": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
     "kr": "상대를 목표로 정한다. 그 플레이어는 자신의 손을 공개한다. 그 중 생물이 아니고 대지가 아닌 카드 한 장을 선택한다. 그 플레이어는 그 카드를 버린다."
   },
   {
@@ -4757,15 +4757,15 @@
     "kr": "상대를 목표로 정한다. 그 상대는 카드 두 장을 버린다."
   },
   {
-    "en": "<i>Raid</i> — If you attacked with a creature this turn, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "습격 — 이 턴에 당신이 생물로 공격했다면, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "<i>Raid</i> — If you attacked with a creature this turn, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "습격 — 이 턴에 당신이 생물로 공격했다면, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Kitesail Freebooter",
     "kr": "연글라이더 탈취자"
   },
   {
-    "en": "When Kitesail Freebooter enters the battlefield, target opponent reveals his or her hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield.",
+    "en": "When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield.",
     "kr": "연글라이더 탈취자가 전장에 들어올 때, 상대를 목표로 정한다. 그 상대는 자신의 손을 공개한다. 그 중 생물이 아니고 대지가 아닌 카드 한 장을 선택한다. 연글라이더 탈취자가 전장을 떠날 때까지 그 카드를 추방한다."
   },
   {
@@ -4841,8 +4841,8 @@
     "kr": "흥청망청"
   },
   {
-    "en": "Whenever a creature an opponent controls dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "상대가 조종하는 생물이 죽을 때마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Whenever a creature an opponent controls dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "상대가 조종하는 생물이 죽을 때마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "At the beginning of your upkeep, if you control ten or more Treasures, you win the game.",
@@ -4865,8 +4865,8 @@
     "kr": "\"이 쓰레기 같은 놈은 수고를 들일 가치도 없어.\""
   },
   {
-    "en": "{o2oB}, Sacrifice a creature: Create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "{o2oB}, 생물 한 개를 희생한다: \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
+    "en": "{o2oB}, Sacrifice a creature: Create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "{o2oB}, 생물 한 개를 희생한다: \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
   },
   {
     "en": "Sacrifice three Treasures: Draw a card.",
@@ -5013,8 +5013,8 @@
     "kr": "\"날 믿어. 그 현상금 가지곤 택도 없어.\""
   },
   {
-    "en": "When Wanted Scoundrels dies, target opponent creates two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "수배된 악당들이 죽을 때, 상대를 목표로 정한다. 그 상대는 \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
+    "en": "When Wanted Scoundrels dies, target opponent creates two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "수배된 악당들이 죽을 때, 상대를 목표로 정한다. 그 상대는 \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
   },
   {
     "en": "Angrath's Marauders",
@@ -5065,8 +5065,8 @@
     "kr": "래너리 스톰 선장"
   },
   {
-    "en": "Whenever Captain Lannery Storm attacks, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "래너리 스톰 선장이 공격할 때마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Whenever Captain Lannery Storm attacks, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "래너리 스톰 선장이 공격할 때마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.",
@@ -5481,8 +5481,8 @@
     "kr": "각 상대는 가능하면 매 전투마다 한 개 이상의 생물로 당신이나 당신이 조종하는 플레인즈워커를 공격해야 한다."
   },
   {
-    "en": "At the beginning of your end step, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "당신의 종료단 시작에, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "At the beginning of your end step, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "당신의 종료단 시작에, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Unfriendly Fire",
@@ -5541,8 +5541,8 @@
     "kr": "고블린들은 해적선의 삭구가 됐든 나뭇가지가 됐든 쉽게 올라가고 이동한다."
   },
   {
-    "en": "When Wily Goblin enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "교활한 고블린이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "When Wily Goblin enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "교활한 고블린이 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Ancient Brontodon",
@@ -5845,7 +5845,7 @@
     "kr": "\"밀림은 도시가 생기기 전부터 이곳에 있었다. 도시가 멸망한 후에도 계속 남아 있을 것이다.\""
   },
   {
-    "en": "When Old-Growth Dryads enters the battlefield, each opponent may search his or her library for a basic land card, put it onto the battlefield tapped, then shuffle his or her library.",
+    "en": "When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.",
     "kr": "처녀림 드라이어드가 전장에 들어올 때, 각 상대는 자신의 서고에서 기본 대지 카드 한 장을 찾아 탭된 채로 전장에 놓을 수 있다. 그렇게 한다면, 상대는 자신의 서고를 섞는다."
   },
   {
@@ -6109,8 +6109,8 @@
     "kr": "데드아이 약탈자들은 당신이 조종하는 마법물체 한 개당 +1/+1을 받는다."
   },
   {
-    "en": "{o2oUoB}: Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "{o2oUoB}: \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "{o2oUoB}: Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "{o2oUoB}: \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Dire Fleet Captain",
@@ -6269,8 +6269,8 @@
     "kr": "+2: 호전적을 가진 2/2 흑색 해적 생물 토큰 한 개를 만든다."
   },
   {
-    "en": "-3: Destroy target artifact, creature, or enchantment. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "-3: 마법물체, 생물 또는 부여마법을 목표로 정한다. 그 목표를 파괴한다. \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "-3: Destroy target artifact, creature, or enchantment. Create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "-3: 마법물체, 생물 또는 부여마법을 목표로 정한다. 그 목표를 파괴한다. \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "-10: Target player's life total becomes 1.",
@@ -6485,8 +6485,8 @@
     "kr": "장착된 생물은 +1/+0을 받는다."
   },
   {
-    "en": "Whenever equipped creature deals combat damage to a player, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "장착된 생물이 플레이어에게 전투피해를 입힐 때마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Whenever equipped creature deals combat damage to a player, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "장착된 생물이 플레이어에게 전투피해를 입힐 때마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Sentinel Totem",
@@ -6585,8 +6585,8 @@
     "kr": "보물 지도"
   },
   {
-    "en": "{o1}, {oT}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "{o1}, {oT}: 점술 1을 한다. 보물 지도에 랜드마크 카운터 한 개를 올려놓는다. 그 후 보물 지도에 올려진 랜드마크 카운터가 세 개 이상인 경우, 그 카운터들을 제거하고, 보물 지도를 변신시킨 후 \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 세 개를 만든다."
+    "en": "{o1}, {oT}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "{o1}, {oT}: 점술 1을 한다. 보물 지도에 랜드마크 카운터 한 개를 올려놓는다. 그 후 보물 지도에 올려진 랜드마크 카운터가 세 개 이상인 경우, 그 카운터들을 제거하고, 보물 지도를 변신시킨 후 \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 세 개를 만든다."
   },
   {
     "en": "Vanquisher's Banner",
@@ -6641,7 +6641,7 @@
     "kr": "파괴의 현장"
   },
   {
-    "en": "{o2}, {oT}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches his or her library for a basic land card, puts it onto the battlefield, then shuffles his or her library.",
+    "en": "{o2}, {oT}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.",
     "kr": "{o2}, {oT}, 파괴의 현장을 희생한다: 상대가 조종하는 기본 대지가 아닌 대지를 목표로 정한다. 그 대지를 파괴한다. 각 플레이어는 자신의 서고에서 기본 대지 카드 한 장을 찾아 전장에 놓은 후, 자신의 서고를 섞는다."
   },
   {
@@ -7101,7 +7101,7 @@
     "kr": "\"야수들을 배 아래에서 베어내면 그것들의 힘은 아무 것도 아니야.\"\\n—마간의 도살자, 이에도의 보나"
   },
   {
-    "en": "Each player chooses any number of creatures he or she controls with total power 4 or less, then sacrifices all other creatures he or she controls.",
+    "en": "Each player chooses any number of creatures they controls with total power 4 or less, then sacrifices all other creatures they controls.",
     "kr": "각 플레이어는 자신이 조종하는 생물들을 공격력의 총합이 4 이하가 되도록 원하는 만큼 선택한 다음, 자신이 조종하는 다른 모든 생물을 희생한다."
   },
   {
@@ -7297,15 +7297,15 @@
     "kr": "자비로운 해적인 그녀는, 흡혈귀의 금붙이가 배에서 떨어지려는 것을 구해냈다."
   },
   {
-    "en": "Counter target creature spell. You create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "생물 주문을 목표로 정한다. 그 주문을 무효화한다. 당신은 \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Counter target creature spell. You create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "생물 주문을 목표로 정한다. 그 주문을 무효화한다. 당신은 \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Induced Amnesia",
     "kr": "유도된 기억상실"
   },
   {
-    "en": "When Induced Amnesia enters the battlefield, target player exiles all cards from his or her hand face down, then draws that many cards.",
+    "en": "When Induced Amnesia enters the battlefield, target player exiles all cards from their hand face down, then draws that many cards.",
     "kr": "유도된 기억상실이 전장에 들어올 때, 플레이어를 목표로 정한다. 그 플레이어는 자신의 손에 있는 카드들을 뒷면 상태로 모두 추방한 후, 그만큼의 카드를 뽑는다."
   },
   {
@@ -7581,7 +7581,7 @@
     "kr": "\"네 정신은 더이상 네가 낭비할 것이 아니다.\""
   },
   {
-    "en": "Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card.",
+    "en": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.",
     "kr": "상대를 목표로 정한다. 그 플레이어는 자신의 손을 공개한다. 그 중 대지가 아닌 카드 한 장을 선택한다. 그 플레이어는 그 카드를 버린다."
   },
   {
@@ -7765,8 +7765,8 @@
     "kr": "\"이런 금들을 무덤에 넣다니 부끄러운 줄 알아야지.\""
   },
   {
-    "en": "Whenever another creature you control dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "당신이 조종하는 다른 생물이 죽을 때마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Whenever another creature you control dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "당신이 조종하는 다른 생물이 죽을 때마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Ravenous Chupacabra",
@@ -7861,7 +7861,7 @@
     "kr": "보나의 굶주림"
   },
   {
-    "en": "Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures he or she controls, rounded up.",
+    "en": "Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures they controls, rounded up.",
     "kr": "각 상대는 생물 한 개를 희생한다. 당신이 도시의 축복을 가지고 있다면, 대신 각 상대는 자신이 조종하는 생물 수의 절반을 올림하여 계산한 뒤 그만큼의 생물을 희생한다."
   },
   {
@@ -7913,8 +7913,8 @@
     "kr": "\"이 금만 가지고도 평생 놀고 먹을 수 있는데 뭐하러 장신구 따위에 옥신각신하지?\"\\n—베케트 브라스 제독"
   },
   {
-    "en": "For each land you control, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "당신이 조종하는 각 대지마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "For each land you control, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "당신이 조종하는 각 대지마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Brazen Freebooter",
@@ -7925,8 +7925,8 @@
     "kr": "찾는 사람이 가지는 사람이다."
   },
   {
-    "en": "When Brazen Freebooter enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "브레이즌 연합 탈취자가 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "When Brazen Freebooter enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "브레이즌 연합 탈취자가 전장에 들어올 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Buccaneer's Bravado",
@@ -8089,8 +8089,8 @@
     "kr": "해적의 강탈을 발동하기 위한 추가비용으로, 카드 한 장을 버린다."
   },
   {
-    "en": "Draw two cards and create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "카드 두 장을 뽑고 \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
+    "en": "Draw two cards and create two colorless Treasure artifact tokens with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "카드 두 장을 뽑고 \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 두 개를 만든다."
   },
   {
     "en": "Reckless Rage",
@@ -8585,7 +8585,7 @@
     "kr": "-3: 생물을 목표로 정한다. 턴종료까지 그 생물의 조종권을 얻는다. 그 생물은 언탭되며 턴종료까지 신속을 얻는다. 그 생물의 전환마나비용이 3 이하라면 다음 종료단 시작에 그 생물을 희생한다."
   },
   {
-    "en": "-8: Each opponent loses life equal to the number of cards in his or her graveyard.",
+    "en": "-8: Each opponent loses life equal to the number of cards in their graveyard.",
     "kr": "-8: 각 상대는 자신의 무덤에 있는 카드의 수만큼 생명점을 잃는다."
   },
   {
@@ -8917,8 +8917,8 @@
     "kr": "저장고 습격"
   },
   {
-    "en": "Whenever one or more creatures you control deal combat damage to a player, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "당신이 조종하는 생물 하나 이상이 플레이어에게 전투피해를 입힐 때마다, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "Whenever one or more creatures you control deal combat damage to a player, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "당신이 조종하는 생물 하나 이상이 플레이어에게 전투피해를 입힐 때마다, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault.",
@@ -9005,8 +9005,8 @@
     "kr": "\"자유롭지 못한 금은 납과 다를 게 없어.\"\\n—앙그라스"
   },
   {
-    "en": "When Gleaming Barrier dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
-    "kr": "빛나는 장벽이 죽을 때, \"{oT}, 이 마법물체를 희생한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
+    "en": "When Gleaming Barrier dies, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
+    "kr": "빛나는 장벽이 죽을 때, \"{oT}, 이 마법물체를 희생한다: 원하는 색의 마나 한 개를 추가한다.\"를 가진 무색 보물 마법물체 토큰 한 개를 만든다."
   },
   {
     "en": "Gold-Forge Garrison",
