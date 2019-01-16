@@ -1923,7 +1923,7 @@
     },
     {
       "en": "Integrity // Intervention deals 3 damage to any target and you gain 3 life.",
-      "kr": "Integrity // Intervention deals 3 damage to any target and you gain 3 life."
+      "kr": "원하는 목표를 정한다. 무결 // 개입은 그 목표에게 피해 3점을 입히고 당신은 생명 3점을 얻는다."
     },
     {
       "en": "Intervention deals 3 damage to any target and you gain 3 life.",
@@ -2927,11 +2927,11 @@
     },
     {
       "en": "Ambition's Cost",
-      "kr": "Ambition's Cost"
+      "kr": "야망의 비용"
     },
     {
       "en": "You draw three cards and you lose 3 life.",
-      "kr": "You draw three cards and you lose 3 life."
+      "kr": "당신은 카드 세 장을 뽑고 생명 3점을 잃는다."
     },
     {
       "en": "Carrier",
@@ -3435,11 +3435,11 @@
     },
     {
       "en": "Goblin Grenade",
-      "kr": "Goblin Grenade"
+      "kr": "고블린식 수류탄"
     },
     {
       "en": "Don't underestimate the aerodynamic qualities of the common goblin.",
-      "kr": "Don't underestimate the aerodynamic qualities of the common goblin."
+      "kr": "일반 고블린의 공기역학적 소질을 얕보지 말라."
     },
     {
       "en": "Creatures your opponents control get -2/-0 until end of turn.",
@@ -4019,7 +4019,7 @@
     },
     {
       "en": "Altar's Reap",
-      "kr": "Altar's Reap"
+      "kr": "재단의 수확"
     },
     {
       "en": "\"The demons don't care if we mutter niceties and act out ceremonies. Just kill him.\"\\n—Bishop Volpaig, servant of Griselbrand",
@@ -4027,7 +4027,7 @@
     },
     {
       "en": "Fortress Crab",
-      "kr": "Fortress Crab"
+      "kr": "요새 게"
     },
     {
       "en": "Unbreakable and unappetizing, the crab grows uninterrupted, sometimes to the size of a cottage and beyond.",
@@ -4075,19 +4075,19 @@
     },
     {
       "en": "Sanctuary Cat",
-      "kr": "Sanctuary Cat"
+      "kr": "성소 고양이"
     },
     {
       "en": "Cats prowl the corridors of Avacyn's churches in search of devils or signs of their mischief.",
-      "kr": "Cats prowl the corridors of Avacyn's churches in search of devils or signs of their mischief."
+      "kr": "아바신의 교회에는 악령이나 악령의 흔적을 수색하는 고양이들이 자주 보인다."
     },
     {
       "en": "Renegade Demon",
-      "kr": "Renegade Demon"
+      "kr": "변절한 악마"
     },
     {
       "en": "\"Have you ever cornered a wounded vampire? That's a walk in the cathedral garden in comparison.\"\\n—Tristen, Cathar Marshal",
-      "kr": "\"Have you ever cornered a wounded vampire? That's a walk in the cathedral garden in comparison.\"\\n—Tristen, Cathar Marshal"
+      "kr": "\"상처 입은 흡혈귀를 구석에 몰아본 적이 있나? 이거에 비하면 그건 대성당에서 산책하는 수준이라고.\"\\n—카타르군 사령관 트리스텐"
     },
     {
       "en": "Ghostform",
@@ -4423,11 +4423,11 @@
     },
     {
       "en": "Seismic Rupture",
-      "kr": "Seismic Rupture"
+      "kr": "단층 파열"
     },
     {
       "en": "The shaman opened the earth beneath their feet, trapping the survivors within the crevices of Ayagor for Atarka to devour at her leisure.",
-      "kr": "The shaman opened the earth beneath their feet, trapping the survivors within the crevices of Ayagor for Atarka to devour at her leisure."
+      "kr": "그 주술사는 그들의 발밑 땅을 갈라 아야고르에 가두었다. 아타르카가 내킬 때 먹어치우게 말이다."
     },
     {
       "en": "Each creature you control assigns combat damage equal to its toughness rather than its power.",
@@ -4475,7 +4475,7 @@
     },
     {
       "en": "Processor",
-      "kr": "Processor"
+      "kr": "처리자"
     },
     {
       "en": "Gideon's Reproach",
@@ -4559,7 +4559,7 @@
     },
     {
       "en": "Mole",
-      "kr": "Mole"
+      "kr": "두더지"
     },
     {
       "en": "Thornhide Wolves",
@@ -5371,11 +5371,11 @@
     },
     {
       "en": "Chaos Maw",
-      "kr": "Chaos Maw"
+      "kr": "혼돈아가리"
     },
     {
       "en": "The food chain doesn't end at sandwurms.",
-      "kr": "The food chain doesn't end at sandwurms."
+      "kr": "먹이사슬은 샌드웜에서 끝나지 않는다."
     },
     {
       "en": "Crash Through",
@@ -9803,7 +9803,7 @@
     },
     {
       "en": "\"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.\"\\n—Mister Lostspoons, Skulltown gossip",
-      "kr": "\"Urborg used to be lovely—scenic volcanoes, respectable lich lords. Since the Cabal came with their nightmares and thrulls, it's all gone to the worms.\"\\n—Mister Lostspoons, Skulltown gossip"
+      "kr": "\"르보그는 한때 아름다운 화산, 경외받는 리치 군주였다. 도당이 나이트메어와 스럴을 몰고 왔을 때, 모든 것은 한낱 벌레가 되고 말았다.\"\\n—스컬타운의 소문꾼, 로스트스푼즈"
     },
     {
       "en": "Final Parting",
@@ -9911,7 +9911,7 @@
     },
     {
       "en": "At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.",
-      "kr": "At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you."
+      "kr": "당신의 유지단 시작에, 다른 생물 한 개를 희생한다. 그럴 수 없다면, 이 생물은 당신에게 피해 6점을 입힌다."
     },
     {
       "en": "III — Create a 6/6 black Demon creature token with flying, trample, and \"At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.\"",
@@ -13387,7 +13387,7 @@
     },
     {
       "en": "When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.",
-      "kr": "When Chaos Maw enters the battlefield, it deals 3 damage to each other creature."
+      "kr": "혼돈아가리가 전장에 들어올 때, 다른 각 생물에 피해 3점씩을 입힌다."
     },
     {
       "en": "{o1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
@@ -13839,7 +13839,7 @@
     },
     {
       "en": "{o2oR}, {oT}: Spitfire Bastion deals 3 damage to any target.",
-      "kr": "{o2oR}, {oT}: Spitfire Bastion deals 3 damage to any target."
+      "kr": "{o2oR}, {oT}: 원하는 목표를 정한다. 불을 토하는 성채는 그 목표에게 피해 3점을 입힌다."
     },
     {
       "en": "When Wily Goblin enters the battlefield, create a colorless Treasure artifact token with \"{oT}, Sacrifice this artifact: Add one mana of any color.\"",
@@ -15807,7 +15807,7 @@
     },
     {
       "en": "Blinding Radiance",
-      "kr": "Blinding Radiance"
+      "kr": "눈을 멀게하는 광선"
     },
     {
       "en": "Zephyr Gull",
@@ -15815,7 +15815,7 @@
     },
     {
       "en": "Feral Roar",
-      "kr": "Feral Roar"
+      "kr": "야생의 포효"
     },
     {
       "en": "Target a creature.",
@@ -17099,7 +17099,7 @@
     },
     {
       "en": "Tactical Advantage",
-      "kr": "Tactical Advantage"
+      "kr": "전술적 이점"
     },
     {
       "en": "Target a blocking or blocked creature you control.",
@@ -17107,7 +17107,7 @@
     },
     {
       "en": "Confront the Assault",
-      "kr": "Confront the Assault"
+      "kr": "공격에 맞서다"
     },
     {
       "en": "Sacrifice a creature; if you decline, Demanding Dragon deals 5 damage to you.",
@@ -18847,7 +18847,7 @@
     },
     {
       "en": "Assure // Assemble",
-      "kr": "Assure // Assemble"
+      "kr": "확언 // 집결"
     },
     {
       "en": "Put a +1/+1 counter on target creature. That creature gains indestructible until end of turn.",
@@ -18867,7 +18867,7 @@
     },
     {
       "en": "Connive // Concoct",
-      "kr": "Connive // Concoct"
+      "kr": "묵인 // 혼합"
     },
     {
       "en": "Gain control of target creature with power 2 or less.",
@@ -18887,7 +18887,7 @@
     },
     {
       "en": "Discovery // Dispersal",
-      "kr": "Discovery // Dispersal"
+      "kr": "발견 // 확산"
     },
     {
       "en": "Surveil 2, then draw a card.",
@@ -18907,7 +18907,7 @@
     },
     {
       "en": "Expansion // Explosion",
-      "kr": "Expansion // Explosion"
+      "kr": "확장 // 폭발"
     },
     {
       "en": "Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy.",
@@ -18915,7 +18915,7 @@
     },
     {
       "en": "Expansion // Explosion deals X damage to any target. Target player draws X cards.",
-      "kr": "Expansion // Explosion deals X damage to any target. Target player draws X cards."
+      "kr": "원하는 목표를 정한다. 확장 // 폭발은 그 목표에게 피해 X점을 입힌다. 플레이어를 목표로 정한다. 그 플레이어는 카드 X장을 뽑는다."
     },
     {
       "en": "Expansion",
@@ -18947,7 +18947,7 @@
     },
     {
       "en": "Flower // Flourish",
-      "kr": "Flower // Flourish"
+      "kr": "개화 // 융성"
     },
     {
       "en": "Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle your library.",
@@ -18963,7 +18963,7 @@
     },
     {
       "en": "Integrity // Intervention",
-      "kr": "Integrity // Intervention"
+      "kr": "무결 // 개입"
     },
     {
       "en": "Integrity",
@@ -18971,7 +18971,7 @@
     },
     {
       "en": "Invert // Invent",
-      "kr": "Invert // Invent"
+      "kr": "도치 // 발명"
     },
     {
       "en": "Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle your library.",
@@ -18987,11 +18987,11 @@
     },
     {
       "en": "Response // Resurgence",
-      "kr": "Response // Resurgence"
+      "kr": "응답 // 재기"
     },
     {
       "en": "Response // Resurgence deals 5 damage to target attacking or blocking creature.",
-      "kr": "Response // Resurgence deals 5 damage to target attacking or blocking creature."
+      "kr": "공격 중이거나 방어 중인 생물을 목표로 정한다. 응답 // 재기는 그 생물에게 피해 5점을 입힌다."
     },
     {
       "en": "Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
@@ -19007,7 +19007,7 @@
     },
     {
       "en": "Status // Statue",
-      "kr": "Status // Statue"
+      "kr": "지위 // 석상"
     },
     {
       "en": "Target creature gets +1/+1 and gains deathtouch until end of turn.",
@@ -19379,23 +19379,23 @@
     },
     {
       "en": "\"No single arrow can pierce an entire flock.\"",
-      "kr": "\"No single arrow can pierce an entire flock.\""
+      "kr": "\"한 대의 화살로 한 무리를 맞출 순 없다.\""
     },
     {
       "en": "It is ancient, immense, and irresistible.",
-      "kr": "It is ancient, immense, and irresistible."
+      "kr": "이것은 오래되고, 거대하며, 불가항력적이다."
     },
     {
       "en": "\"Those who stood in my path now lay behind me.\"",
-      "kr": "\"Those who stood in my path now lay behind me.\""
+      "kr": "\"내 앞에 서있던 자들은 지금 내 뒤에 누워있지.\""
     },
     {
       "en": "Their fires burn quietly, allowing the phoenixes to glide silently through the canyon.",
-      "kr": "Their fires burn quietly, allowing the phoenixes to glide silently through the canyon."
+      "kr": "그들의 불꽃은 빠르게 타올라, 불사조가 협곡을 활강하도록 해준다."
     },
     {
       "en": "Not even the tallest tree stands a chance against the underside of a dinosaur's foot.",
-      "kr": "Not even the tallest tree stands a chance against the underside of a dinosaur's foot."
+      "kr": "가장 큰 나무조차도 공룡의 발 아래에 놓일 수 있다."
     },
     {
       "en": "\"Watch carefully. The gap between death and victory is thinner than your blade.\"",
@@ -20207,7 +20207,7 @@
     },
     {
       "en": "\"Conquering your first world is the hardest, after all. My power grew as I moved from world to world, taking anything that would make the next taking easier.\"\\n—Ob Nixilis",
-      "kr": "\"Conquering your first world is the hardest, after all. My power grew as I moved from world to world, taking anything that would make the next taking easier.\"\\n—Ob Nixilis"
+      "kr": "\"첫 세계를 정복하는 것이 가장 힘들었다. 나의 힘은 세계를 옮길수록 강해졌고, 다음 일을 쉽게할 수 있도록 하는 모든 것을 흡수했다.\"\\n—오브 닉실리스"
     },
     {
       "en": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
@@ -20219,43 +20219,43 @@
     },
     {
       "en": "Seismic Rupture deals 2 damage to each creature without flying.",
-      "kr": "Seismic Rupture deals 2 damage to each creature without flying."
+      "kr": "단층 파열은 비행이 없는 각 생물에 피해 2점을 입힌다."
     },
     {
       "en": "Tap all creatures your opponents control with toughness 2 or less.",
-      "kr": "Tap all creatures your opponents control with toughness 2 or less."
+      "kr": "상대들이 조종하는 방어력이 2 이하인 모든 생물을 탭한다."
     },
     {
       "en": "Target blocking or blocked creature you control gets +2/+2 until end of turn.",
-      "kr": "Target blocking or blocked creature you control gets +2/+2 until end of turn."
+      "kr": "당신이 조종하는 방어하는 또는 방어된 생물을 목표로 정한다. 그 생물은 턴 끝까지 +2/+2를 받는다."
     },
     {
       "en": "Angelic Reward",
-      "kr": "Angelic Reward"
+      "kr": "천사의 보상"
     },
     {
       "en": "Hallowed Priest",
-      "kr": "Hallowed Priest"
+      "kr": "신성한 사제"
     },
     {
       "en": "When Hallowed Priest enters the battlefield, create a 1/1 white Spirit creature token with flying.",
-      "kr": "When Hallowed Priest enters the battlefield, create a 1/1 white Spirit creature token with flying."
+      "kr": "신성한 사제가 전장에 들어올 때, 비행을 가진 1/1 백색 신령 생물 토큰을 만든다."
     },
     {
       "en": "Inspiring Commander",
-      "kr": "Inspiring Commander"
+      "kr": "고무시키는 사령관"
     },
     {
       "en": "Shrine Keeper",
-      "kr": "Shrine Keeper"
+      "kr": "신전 수호자"
     },
     {
       "en": "River's Favor",
-      "kr": "River's Favor"
+      "kr": "강의 호의"
     },
     {
       "en": "Titanic Pelagosaur",
-      "kr": "Titanic Pelagosaur"
+      "kr": "거대한 펠라고사우루스"
     },
     {
       "en": "Trapped in a Whirlpool",
@@ -20263,35 +20263,35 @@
     },
     {
       "en": "Cruel Cut",
-      "kr": "Cruel Cut"
+      "kr": "잔인한 절단"
     },
     {
       "en": "Nimble Pilferer",
-      "kr": "Nimble Pilferer"
+      "kr": "민첩한 좀도둑"
     },
     {
       "en": "Goblin Gang Leader",
-      "kr": "Goblin Gang Leader"
+      "kr": "고블린 깡패 두목"
     },
     {
       "en": "When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens.",
-      "kr": "When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens."
+      "kr": "고블린 깡패 두목이 전장에 들어올 때, 1/1 적색 고블린 생물 토큰 두 개를 만든다."
     },
     {
       "en": "Ogre Painbringer",
-      "kr": "Ogre Painbringer"
+      "kr": "아프게하는 오우거"
     },
     {
       "en": "When Ogre Painbringer enters the battlefield, it deals 3 damage to each player.",
-      "kr": "When Ogre Painbringer enters the battlefield, it deals 3 damage to each player."
+      "kr": "아프게하는 오우거가 전쟁에 들어올 때, 각 플레이어에게 피해 3점을 입힌다."
     },
     {
       "en": "Treetop Warden",
-      "kr": "Treetop Warden"
+      "kr": "나무꼭대기 파수꾼"
     },
     {
       "en": "Cast this spell only if a creature is attacking you.",
-      "kr": "Cast this spell only if a creature is attacking you."
+      "kr": "이 주문은 생물이 당신을 공격하고 있을 때만 발동할 수 있다."
     },
     {
       "en": "Remove all counters from target creature. It can't have counters put on it for as long as Suncleanser remains on the battlefield.",
