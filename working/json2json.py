@@ -10,9 +10,9 @@ def file_as_bytes(file):
         return file.read()
 
 if __name__ == "__main__":
-    input_file_name = "result.json"
-    target_file_name = "en-kr.json"
-    output_file_name = "output.json"
+    input_file_name = "loc-kr.json"
+    target_file_name = "loc-en.json"
+    output_file_name = "loc-en_result.json"
 
     with open(input_file_name, 'rb') as data_file:
         data = json.load(data_file)
@@ -20,11 +20,12 @@ if __name__ == "__main__":
     with open(target_file_name, 'rb') as target_file:
         target = json.load(target_file)
 
-    for d_token in data['tokens']:
-        for t_token in target['tokens']:
-            if d_token['en'] == t_token['en']:
-                t_token['kr'] = d_token['kr']
-                #print(t_token['en'], t_token['kr'])
+    t_token = target['keys']
+    for i, d_token in enumerate(data['keys']):
+        if d_token['text'] == "WWWWWWWWW":
+            continue
+        else:
+            t_token[i]['text'] = d_token['text']
 
     print("Make ", output_file_name)
     with open(output_file_name, 'bw') as fp:

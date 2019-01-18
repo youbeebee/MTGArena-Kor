@@ -2,90 +2,99 @@
   "FormatVersion": 4,
   "Assets": [
     {
-      "Name": "akh_mdnassetlibrary_c53cce3949a884d3ec27fe9be57692cf.mtga",
+      "Name": "akh_mdnassetlibrary_3494ca6dba5e682fb6e875699c6b4cfb.mtga",
       "AssetType": "AssetBundle",
-      "Length": 8027,
-      "CompressedLength": 2560,
-      "Hash": "c53cce3949a884d3ec27fe9be57692cf",
-      "MD5": "9b24d03b45b979047a9c7b1e5ad4bdb3",
+      "Length": 8032,
+      "CompressedLength": 2566,
+      "Hash": "3494ca6dba5e682fb6e875699c6b4cfb",
+      "MD5": "00ad586b74902f666ea149764a3b6090",
       "Dependencies": []
     },
     {
-      "Name": "akh_mdnassetlibrarypayloads_493cfe93356288a14e06ffddb298956d.mtga",
+      "Name": "akh_mdnassetlibrarypayloads_0ad2db8186c51f4fc7a1e548720c42da.mtga",
       "AssetType": "AssetBundle",
       "Length": 7640,
       "CompressedLength": 2465,
-      "Hash": "493cfe93356288a14e06ffddb298956d",
+      "Hash": "0ad2db8186c51f4fc7a1e548720c42da",
       "MD5": "e288f342580f99dde734914efc65c872",
       "Dependencies": []
     },
     {
-      "Name": "akh_scenes_797d94a09ac6f087f3d17a6ae5980e18.mtga",
+      "Name": "akh_scenes_0f7d34d01d14b43e52bc9547152d0f38.mtga",
       "AssetType": "AssetBundle",
-      "Length": 31243625,
-      "CompressedLength": 9286710,
-      "Hash": "797d94a09ac6f087f3d17a6ae5980e18",
-      "MD5": "79499e39afff430a8ecdc766a736ca54",
+      "Length": 31493865,
+      "CompressedLength": 9370211,
+      "Hash": "0f7d34d01d14b43e52bc9547152d0f38",
+      "MD5": "bda9b69c3dbc43698c24306f97d29e02",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "ana_cardart_8bf6c7f61304e6126dc6c57334681db9.mtga",
+      "Name": "ana_cardart_3787c6d47e307ea06229907660a76601.mtga",
       "AssetType": "AssetBundle",
       "Length": 10682094,
-      "CompressedLength": 8742562,
-      "Hash": "8bf6c7f61304e6126dc6c57334681db9",
-      "MD5": "65e8592e229b07703309824925120546",
+      "CompressedLength": 8743724,
+      "Hash": "3787c6d47e307ea06229907660a76601",
+      "MD5": "9b325cc6f3492c7667b3614726706a97",
       "Dependencies": []
     },
     {
-      "Name": "ana_mdnassetlibrary_bbdb3eafe3833f74edba018f73341c6f.mtga",
+      "Name": "ana_mdnassetlibrary_e08d5784c3065b7bd1e5cde2e3a37dcc.mtga",
       "AssetType": "AssetBundle",
-      "Length": 20668,
-      "CompressedLength": 5548,
-      "Hash": "bbdb3eafe3833f74edba018f73341c6f",
-      "MD5": "ea5fefe0538d97a61d868462d222206e",
+      "Length": 22436,
+      "CompressedLength": 5949,
+      "Hash": "e08d5784c3065b7bd1e5cde2e3a37dcc",
+      "MD5": "9617ec9b0beab663e6cfb395dcb0246f",
       "Dependencies": []
     },
     {
-      "Name": "ana_mdnassetlibrarypayloads_47d4aa47f1fb93eb4a9927dadad64bb4.mtga",
+      "Name": "ana_mdnassetlibrarypayloads_0beed4f1feaddd1092046ffc9d6bcdde.mtga",
       "AssetType": "AssetBundle",
-      "Length": 18126156,
-      "CompressedLength": 5682450,
-      "Hash": "47d4aa47f1fb93eb4a9927dadad64bb4",
-      "MD5": "b9ea9c223e212c1a4f687654407b4c20",
+      "Length": 22648304,
+      "CompressedLength": 7179569,
+      "Hash": "0beed4f1feaddd1092046ffc9d6bcdde",
+      "MD5": "48b5f0e103eca677a6e5907ed7b19c31",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "ana_metataglibrary_129e93625667f0c323da51ce4dd37bd2.mtga",
+      "Name": "ana_metataglibrary_a9a86e208b9acc527319b41186ec19be.mtga",
       "AssetType": "AssetBundle",
-      "Length": 4820,
-      "CompressedLength": 1611,
-      "Hash": "129e93625667f0c323da51ce4dd37bd2",
-      "MD5": "703b3ee46ad2a314bc59fa63989db23d",
+      "Length": 4824,
+      "CompressedLength": 1615,
+      "Hash": "a9a86e208b9acc527319b41186ec19be",
+      "MD5": "236691ef916b366b5a7a47a764d11eb5",
       "Dependencies": []
     },
     {
-      "Name": "ana_scenes_129a6955f0f41ab7b8305c1b24f4ae53.mtga",
+      "Name": "ana_scenes_4b2e0f7a3019c8bf948978d340986a3b.mtga",
       "AssetType": "AssetBundle",
-      "Length": 30464395,
-      "CompressedLength": 6078796,
-      "Hash": "129a6955f0f41ab7b8305c1b24f4ae53",
-      "MD5": "9b7189ac21ddf9fcf4e016bab6d2e21a",
+      "Length": 30442611,
+      "CompressedLength": 6064411,
+      "Hash": "4b2e0f7a3019c8bf948978d340986a3b",
+      "MD5": "2f7553e03588e8c5ab9b037a0fec2ec1",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "arenasup_cardart_a1350b6490e45bb5cab490d9a7b94fb8.mtga",
+      "Name": "arenasup_cardart_0ee5884072f57408a6c063f6c74d20c9.mtga",
       "AssetType": "AssetBundle",
       "Length": 5600990,
       "CompressedLength": 4188463,
-      "Hash": "a1350b6490e45bb5cab490d9a7b94fb8",
+      "Hash": "0ee5884072f57408a6c063f6c74d20c9",
       "MD5": "054fae1d729837a5db683a4f5d72858f",
+      "Dependencies": []
+    },
+    {
+      "Name": "BAT_AKH_27c8edb0c376c941f421f5c03d71972c.mtga",
+      "AssetType": "Audio",
+      "Length": 13498586,
+      "CompressedLength": 13484062,
+      "Hash": "27c8edb0c376c941f421f5c03d71972c",
+      "MD5": "b10afd426177cb6d720a910c30903dc4",
       "Dependencies": []
     },
     {
@@ -134,143 +143,143 @@
       "Dependencies": []
     },
     {
-      "Name": "dar_cardart_4343d837b909f10959983e8b2e04dcb1.mtga",
+      "Name": "dar_cardart_b87627b7f77c7e5df58725bf9ab09a5d.mtga",
       "AssetType": "AssetBundle",
       "Length": 73858351,
       "CompressedLength": 55479066,
-      "Hash": "4343d837b909f10959983e8b2e04dcb1",
+      "Hash": "b87627b7f77c7e5df58725bf9ab09a5d",
       "MD5": "2351e6b663297651685e89e7af4f4483",
       "Dependencies": []
     },
     {
-      "Name": "dar_mdnassetlibrary_deb4a95ad1e7bbc5f0ad397dcc37afb5.mtga",
+      "Name": "dar_mdnassetlibrary_3a781bf576030a62ce2e66e6379fe039.mtga",
       "AssetType": "AssetBundle",
-      "Length": 127144,
-      "CompressedLength": 35454,
-      "Hash": "deb4a95ad1e7bbc5f0ad397dcc37afb5",
-      "MD5": "2357e098a74c9ce51c5e579b88a13651",
+      "Length": 127260,
+      "CompressedLength": 35547,
+      "Hash": "3a781bf576030a62ce2e66e6379fe039",
+      "MD5": "106534d5ac1ad52e2be3f49c8ad6556a",
       "Dependencies": []
     },
     {
-      "Name": "dar_mdnassetlibrarypayloads_64953832d69d3f1fed208ff2fa1486fe.mtga",
+      "Name": "dar_mdnassetlibrarypayloads_0c9b632f124dc4c32e4d9bed7e6ebe52.mtga",
       "AssetType": "AssetBundle",
-      "Length": 104334136,
-      "CompressedLength": 42373203,
-      "Hash": "64953832d69d3f1fed208ff2fa1486fe",
-      "MD5": "5546d52b291a011483e9ad4ef6457c8c",
+      "Length": 106863232,
+      "CompressedLength": 42673820,
+      "Hash": "0c9b632f124dc4c32e4d9bed7e6ebe52",
+      "MD5": "9a1ce1f1b600bb8115601db8df4d8d45",
       "Dependencies": [
-        "dar_cardart_4343d837b909f10959983e8b2e04dcb1.mtga",
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "dar_cardart_b87627b7f77c7e5df58725bf9ab09a5d.mtga",
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "dar_metataglibrary_ff8a87b49f055bfc599487490e3f537f.mtga",
+      "Name": "dar_metataglibrary_0cd8b7baf6371c75cf0ba0d4d10f2cef.mtga",
       "AssetType": "AssetBundle",
       "Length": 5344,
-      "CompressedLength": 1885,
-      "Hash": "ff8a87b49f055bfc599487490e3f537f",
-      "MD5": "0e34abe933a423256c210dc03aeb56ed",
+      "CompressedLength": 1888,
+      "Hash": "0cd8b7baf6371c75cf0ba0d4d10f2cef",
+      "MD5": "f0ccbb8b8d901783ee4ac7cbfa189786",
       "Dependencies": []
     },
     {
-      "Name": "dar_scenes_7e6f791a982667a4f829cd00574e31f7.mtga",
+      "Name": "dar_scenes_ef30708fea4e748abf2877c9215e6dfb.mtga",
       "AssetType": "AssetBundle",
-      "Length": 19037729,
-      "CompressedLength": 7857393,
-      "Hash": "7e6f791a982667a4f829cd00574e31f7",
-      "MD5": "8e7d0d08a5dcc0140dc7c420464a84af",
+      "Length": 19016106,
+      "CompressedLength": 7845173,
+      "Hash": "ef30708fea4e748abf2877c9215e6dfb",
+      "MD5": "d6dd73e7c8954a758813351f1367cd16",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "DAR_VO_25801144dba9c963ea1e8160003542a6.mtga",
+      "Name": "DAR_VO_fd200bb08e41a43e42b53ef6c179850b.mtga",
       "AssetType": "Audio",
-      "Length": 10432013,
-      "CompressedLength": 10398706,
-      "Hash": "25801144dba9c963ea1e8160003542a6",
-      "MD5": "f184883cfdc192b9fdea3131bfacce62",
+      "Length": 8175667,
+      "CompressedLength": 8147649,
+      "Hash": "fd200bb08e41a43e42b53ef6c179850b",
+      "MD5": "9bef4848ae768ae0c1f774ea8d83295b",
       "Dependencies": []
     },
     {
-      "Name": "data_abilities_07f92f4c47bea8e3767aeccec565a067.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 607049,
-      "CompressedLength": 20603,
-      "Hash": "07f92f4c47bea8e3767aeccec565a067",
-      "MD5": "9279045cb91281bd6e1738f0ac274236",
+      "Name": "data_abilities_5cd6608735cc4f6bf4b93a1bc9ce2699.mtga",
+      "AssetType": "Data",
+      "Length": 722199,
+      "CompressedLength": 23017,
+      "Hash": "5cd6608735cc4f6bf4b93a1bc9ce2699",
+      "MD5": "5eaea6784c7407b82e5febbb44bcc443",
       "Dependencies": []
     },
     {
-      "Name": "data_cards_125ba592fe4457950f1aea275d672090.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 1422653,
-      "CompressedLength": 89101,
-      "Hash": "125ba592fe4457950f1aea275d672090",
-      "MD5": "15a2c244da8aa8aab31f0acec57a0261",
+      "Name": "data_cards_3443f5d3bb45c8d807c122778e4511f1.mtga",
+      "AssetType": "Data",
+      "Length": 1714212,
+      "CompressedLength": 105575,
+      "Hash": "3443f5d3bb45c8d807c122778e4511f1",
+      "MD5": "1de2b72dd0dbdd9a6196e3fdd1ec5bcb",
       "Dependencies": []
     },
     {
-      "Name": "data_enums_835312e87fcaf80842538c60f9a06c91.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 39188,
-      "CompressedLength": 4594,
-      "Hash": "835312e87fcaf80842538c60f9a06c91",
-      "MD5": "8fd7b80467b46121abba3107301d9755",
+      "Name": "data_enums_19374e9348e721bd6be2bc639ef72e89.mtga",
+      "AssetType": "Data",
+      "Length": 34775,
+      "CompressedLength": 3451,
+      "Hash": "19374e9348e721bd6be2bc639ef72e89",
+      "MD5": "a14c400820bac8fa22f24e41e1b08484",
       "Dependencies": []
     },
     {
-      "Name": "data_loc_333ad7faf94b7025fc22655c7299e770.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 6871212,
-      "CompressedLength": 1290403,
-      "Hash": "333ad7faf94b7025fc22655c7299e770",
-      "MD5": "ab79cac77a6ea1f2358eb14ff8f7b119",
+      "Name": "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga",
+      "AssetType": "Data",
+      "Length": 9085995,
+      "CompressedLength": 1699748,
+      "Hash": "0d8e6d4e3a8685b70898170358e3e7e3",
+      "MD5": "80e20b58eb375309540d24522e8117c5",
       "Dependencies": []
     },
     {
-      "Name": "data_prompts_9f1d4927d8e0af72508b782dc9de93a0.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 27956,
-      "CompressedLength": 4340,
-      "Hash": "9f1d4927d8e0af72508b782dc9de93a0",
-      "MD5": "3ec5f97a52e6ecb9f672facf539dd25f",
+      "Name": "data_prompts_7811049a54609ebf93e0210f16119314.mtga",
+      "AssetType": "Data",
+      "Length": 25724,
+      "CompressedLength": 3498,
+      "Hash": "7811049a54609ebf93e0210f16119314",
+      "MD5": "2a17ed641481a5df9c8e68ccba50da88",
       "Dependencies": []
     },
     {
-      "Name": "data_version_1dd56e1ecc2347527e0713257e1e9473.mtga",
-      "AssetType": "AssetBundle",
-      "Length": 4436,
-      "CompressedLength": 947,
-      "Hash": "1dd56e1ecc2347527e0713257e1e9473",
-      "MD5": "19a7b57dd48c901568833d8683fdbf2a",
-      "Dependencies": []
-    },
-    {
-      "Name": "g18_cardart_de333b88537e8557e2775ac87d77f0cd.mtga",
+      "Name": "g18_cardart_30f976695de6212cd613a901886bfd6c.mtga",
       "AssetType": "AssetBundle",
       "Length": 879622,
       "CompressedLength": 690403,
-      "Hash": "de333b88537e8557e2775ac87d77f0cd",
+      "Hash": "30f976695de6212cd613a901886bfd6c",
       "MD5": "81e4abea575755d417dd3a698fd2a9aa",
       "Dependencies": []
     },
     {
-      "Name": "g18_mdnassetlibrary_e16adb1cc16335c8b36e84aef4c95a6c.mtga",
+      "Name": "g18_mdnassetlibrary_7e4f74157303df3aa59bb16ec4bb93b0.mtga",
       "AssetType": "AssetBundle",
       "Length": 7980,
-      "CompressedLength": 2570,
-      "Hash": "e16adb1cc16335c8b36e84aef4c95a6c",
-      "MD5": "638618364bdfff713fee41abf0fc3975",
+      "CompressedLength": 2551,
+      "Hash": "7e4f74157303df3aa59bb16ec4bb93b0",
+      "MD5": "90321407a11730814e8df792d2e32e88",
       "Dependencies": []
     },
     {
-      "Name": "g18_mdnassetlibrarypayloads_2b5ad3a37eba864dfab4ada8cbb3da43.mtga",
+      "Name": "g18_mdnassetlibrarypayloads_bc296a2cd473d6c5dcf55bfb30b3d8c6.mtga",
       "AssetType": "AssetBundle",
       "Length": 150176,
       "CompressedLength": 43978,
-      "Hash": "2b5ad3a37eba864dfab4ada8cbb3da43",
+      "Hash": "bc296a2cd473d6c5dcf55bfb30b3d8c6",
       "MD5": "8be68ee4123abd2d9745667d6073b553",
+      "Dependencies": []
+    },
+    {
+      "Name": "g18_metataglibrary_653e24410668bf582584a1fedeef1f64.mtga",
+      "AssetType": "AssetBundle",
+      "Length": 4656,
+      "CompressedLength": 1503,
+      "Hash": "653e24410668bf582584a1fedeef1f64",
+      "MD5": "ac2aa9a15615f19c5c2bd08453b7c735",
       "Dependencies": []
     },
     {
@@ -283,12 +292,12 @@
       "Dependencies": []
     },
     {
-      "Name": "GLOBAL_CARD_039e91fc213c8d91398596f1185e8673.mtga",
+      "Name": "GLOBAL_CARD_07aea6a436afbe8ec89276408f3a755e.mtga",
       "AssetType": "Audio",
-      "Length": 44734739,
-      "CompressedLength": 44523791,
-      "Hash": "039e91fc213c8d91398596f1185e8673",
-      "MD5": "e5fb5f3aeb2dc0a962a34a3172f75975",
+      "Length": 44734776,
+      "CompressedLength": 44523806,
+      "Hash": "07aea6a436afbe8ec89276408f3a755e",
+      "MD5": "06f5277338e51ba8d55ae17093ee56c1",
       "Dependencies": []
     },
     {
@@ -301,21 +310,21 @@
       "Dependencies": []
     },
     {
-      "Name": "GLOBAL_MUSIC_16741c619e5636027c9297e2ec633f74.mtga",
+      "Name": "GLOBAL_MUSIC_0743bec8dfa900c018492f0c30dc6b32.mtga",
       "AssetType": "Audio",
-      "Length": 150361062,
-      "CompressedLength": 149770243,
-      "Hash": "16741c619e5636027c9297e2ec633f74",
-      "MD5": "1f0dfe7b97689864e7603eb9235068fa",
+      "Length": 150348852,
+      "CompressedLength": 149766870,
+      "Hash": "0743bec8dfa900c018492f0c30dc6b32",
+      "MD5": "a120c67de0184ea5c57da29f285579ba",
       "Dependencies": []
     },
     {
-      "Name": "GLOBAL_UI_130c68949d2a0dacfd80c96d1c32620c.mtga",
+      "Name": "GLOBAL_UI_8e4d21d177d89b478b8270c2bf090689.mtga",
       "AssetType": "Audio",
-      "Length": 16648826,
-      "CompressedLength": 16503708,
-      "Hash": "130c68949d2a0dacfd80c96d1c32620c",
-      "MD5": "9e3c1626934a5cc97ddeb882eca6b361",
+      "Length": 16648706,
+      "CompressedLength": 16503661,
+      "Hash": "8e4d21d177d89b478b8270c2bf090689",
+      "MD5": "347292acc9fdf4ee41f038e979aa7376",
       "Dependencies": []
     },
     {
@@ -337,54 +346,54 @@
       "Dependencies": []
     },
     {
-      "Name": "grn_cardart_9faded31a782ff48725b40a73c3335bc.mtga",
+      "Name": "grn_cardart_f6611feb3c2d803e79d0c2b6932062b6.mtga",
       "AssetType": "AssetBundle",
       "Length": 60571311,
       "CompressedLength": 46403193,
-      "Hash": "9faded31a782ff48725b40a73c3335bc",
+      "Hash": "f6611feb3c2d803e79d0c2b6932062b6",
       "MD5": "ed028714cf30de6e4805a37eb576c237",
       "Dependencies": []
     },
     {
-      "Name": "grn_mdnassetlibrary_f7d31e60cfa69607ac6f60700a6b3b06.mtga",
+      "Name": "grn_mdnassetlibrary_6fe151abc6d1179f1c294bf0c91f81e7.mtga",
       "AssetType": "AssetBundle",
-      "Length": 141364,
-      "CompressedLength": 41035,
-      "Hash": "f7d31e60cfa69607ac6f60700a6b3b06",
-      "MD5": "6d37cee723c0f9a111746d4d29cde2d8",
+      "Length": 137284,
+      "CompressedLength": 38906,
+      "Hash": "6fe151abc6d1179f1c294bf0c91f81e7",
+      "MD5": "ea155a8a636ec19d4a098a71172e6134",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "grn_mdnassetlibrarypayloads_8168cdfeb6d860aee4a6645d45999c50.mtga",
+      "Name": "grn_mdnassetlibrarypayloads_f3d67af3e3a684f99e7d9eeec8dd5b85.mtga",
       "AssetType": "AssetBundle",
-      "Length": 95675356,
-      "CompressedLength": 36811905,
-      "Hash": "8168cdfeb6d860aee4a6645d45999c50",
-      "MD5": "802411adb48cb6b9c6a963eaa1f271d0",
+      "Length": 95760100,
+      "CompressedLength": 37189749,
+      "Hash": "f3d67af3e3a684f99e7d9eeec8dd5b85",
+      "MD5": "baab80931e71c3ce8d67cc323dac7139",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "grn_metataglibrary_7a7d79a942d7d10eadeb3f592c61cfc3.mtga",
+      "Name": "grn_metataglibrary_41cacd5523a643442796cb2d3df41786.mtga",
       "AssetType": "AssetBundle",
-      "Length": 5360,
-      "CompressedLength": 1895,
-      "Hash": "7a7d79a942d7d10eadeb3f592c61cfc3",
-      "MD5": "9d5fff78287c1fc34a2e0e275a23a5f5",
+      "Length": 5356,
+      "CompressedLength": 1890,
+      "Hash": "41cacd5523a643442796cb2d3df41786",
+      "MD5": "19c42f2d4cecf1fb7fbaf4c73b5f1e90",
       "Dependencies": []
     },
     {
-      "Name": "grn_scenes_6cd957988b156d7f7c53dba6d747f60c.mtga",
+      "Name": "grn_scenes_d70c0300263d5d1f8126d41f2d2baed5.mtga",
       "AssetType": "AssetBundle",
-      "Length": 38339100,
-      "CompressedLength": 14510335,
-      "Hash": "6cd957988b156d7f7c53dba6d747f60c",
-      "MD5": "dbe917e9aa5d19dbdf4f65035d2908f1",
+      "Length": 37676260,
+      "CompressedLength": 14294525,
+      "Hash": "d70c0300263d5d1f8126d41f2d2baed5",
+      "MD5": "e4e326774cbad78d026fa506bc167e51",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
@@ -397,45 +406,45 @@
       "Dependencies": []
     },
     {
-      "Name": "hol_mdnassetlibrary_2d91b43b47a5d0d145ca75edc14fbb54.mtga",
+      "Name": "hol_mdnassetlibrary_61c3c8c86434c5f214763a1284b08963.mtga",
       "AssetType": "AssetBundle",
       "Length": 12539,
-      "CompressedLength": 3559,
-      "Hash": "2d91b43b47a5d0d145ca75edc14fbb54",
-      "MD5": "fce14f7c0392b0deb2577e1be0676a61",
+      "CompressedLength": 3557,
+      "Hash": "61c3c8c86434c5f214763a1284b08963",
+      "MD5": "a91712cf14df45f3acd0537e45a53fba",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "hol_mdnassetlibrarypayloads_3a33e9b9c96d7b28cbd52a36a9237d5f.mtga",
+      "Name": "hol_mdnassetlibrarypayloads_3cc85708d518b4a5c1992b032af58fe2.mtga",
       "AssetType": "AssetBundle",
-      "Length": 3867337,
-      "CompressedLength": 2430032,
-      "Hash": "3a33e9b9c96d7b28cbd52a36a9237d5f",
-      "MD5": "dde9c3467f9e75bbb983a9013ec5f5b9",
+      "Length": 3867465,
+      "CompressedLength": 2430055,
+      "Hash": "3cc85708d518b4a5c1992b032af58fe2",
+      "MD5": "3bf2713617a12c93f9531e5df8df32da",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "hol_scenes_a7e8de5c89c4e12cadaf24bdfc68c95e.mtga",
+      "Name": "hol_scenes_0bdcc25e344c6c5d1eea66aa2764b6b6.mtga",
       "AssetType": "AssetBundle",
-      "Length": 68946657,
-      "CompressedLength": 22357405,
-      "Hash": "a7e8de5c89c4e12cadaf24bdfc68c95e",
-      "MD5": "91f4ccb30a2048690d69a508ab80a601",
+      "Length": 67698961,
+      "CompressedLength": 21873338,
+      "Hash": "0bdcc25e344c6c5d1eea66aa2764b6b6",
+      "MD5": "9bcf5942fdee62fddd84a55e46ba8120",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "INIT_578bfc3b5964da4227da15d29b87820f.mtga",
+      "Name": "INIT_094f84d34731dfb594664d158801e202.mtga",
       "AssetType": "Audio",
-      "Length": 4406,
-      "CompressedLength": 0,
-      "Hash": "578bfc3b5964da4227da15d29b87820f",
-      "MD5": "a60b3fa90d666c78f454c2a618dfeb7a",
+      "Length": 4427,
+      "CompressedLength": 1577,
+      "Hash": "094f84d34731dfb594664d158801e202",
+      "MD5": "2f7524438315b82f8a4ee932b9e04407",
       "Dependencies": []
     },
     {
@@ -448,50 +457,50 @@
       "Dependencies": []
     },
     {
-      "Name": "m19_cardart_fc25936d57675a6b6363665b874ae1bc.mtga",
+      "Name": "m19_cardart_9702b867a540b8be155f778320227175.mtga",
       "AssetType": "AssetBundle",
       "Length": 72992487,
       "CompressedLength": 58587444,
-      "Hash": "fc25936d57675a6b6363665b874ae1bc",
+      "Hash": "9702b867a540b8be155f778320227175",
       "MD5": "9b7197d25a045e34628d766cbdaed434",
       "Dependencies": []
     },
     {
-      "Name": "m19_mdnassetlibrary_c543f289c7e830499a77bb081adc3c11.mtga",
+      "Name": "m19_mdnassetlibrary_322bae653c7c20a0a7f9b8da7ed0419f.mtga",
       "AssetType": "AssetBundle",
-      "Length": 106049,
-      "CompressedLength": 29289,
-      "Hash": "c543f289c7e830499a77bb081adc3c11",
-      "MD5": "31228193b017a2cdf6cd43851b9db442",
+      "Length": 109668,
+      "CompressedLength": 30587,
+      "Hash": "322bae653c7c20a0a7f9b8da7ed0419f",
+      "MD5": "56181fe1b13d12927cd799cc0ef9af95",
       "Dependencies": []
     },
     {
-      "Name": "m19_mdnassetlibrarypayloads_7bd3effb92103a1575f8b828d6ac00d4.mtga",
+      "Name": "m19_mdnassetlibrarypayloads_9f0fdbc2a229148a19dbb886fd8a129d.mtga",
       "AssetType": "AssetBundle",
-      "Length": 79676616,
-      "CompressedLength": 36098943,
-      "Hash": "7bd3effb92103a1575f8b828d6ac00d4",
-      "MD5": "f50a1076a1240780cec8ebd805accdc3",
+      "Length": 82754032,
+      "CompressedLength": 36713535,
+      "Hash": "9f0fdbc2a229148a19dbb886fd8a129d",
+      "MD5": "9ed52935a31f0e21a8a8d930edc7212d",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "m19_metataglibrary_29aba03519761ee6bd015e28e4cb3b46.mtga",
+      "Name": "m19_metataglibrary_eed6bb839bb43caff500a74f9f1406a4.mtga",
       "AssetType": "AssetBundle",
       "Length": 5452,
-      "CompressedLength": 1950,
-      "Hash": "29aba03519761ee6bd015e28e4cb3b46",
-      "MD5": "c411467334829dec80cf80745cf42add",
+      "CompressedLength": 1947,
+      "Hash": "eed6bb839bb43caff500a74f9f1406a4",
+      "MD5": "021823fd1d17a1085b9d076e1c77e842",
       "Dependencies": []
     },
     {
-      "Name": "M19_VO_5a1726018d09500b00b8ddba0df43fad.mtga",
+      "Name": "M19_VO_92732fc790bc49199d2a579312c00ab9.mtga",
       "AssetType": "Audio",
-      "Length": 21955137,
-      "CompressedLength": 21838837,
-      "Hash": "5a1726018d09500b00b8ddba0df43fad",
-      "MD5": "e3e9c0510cbd4c1f4aaca31c14e48a3b",
+      "Length": 20536334,
+      "CompressedLength": 20425668,
+      "Hash": "92732fc790bc49199d2a579312c00ab9",
+      "MD5": "07f444ef9ccbf58f6cdf87efc7ec48f8",
       "Dependencies": []
     },
     {
@@ -567,11 +576,11 @@
       "Dependencies": []
     },
     {
-      "Name": "rix_cardart_2fa1ee2fd039c8c10c0090fe1b64e219.mtga",
+      "Name": "rix_cardart_907a06fef5f55922ec401857b9d00488.mtga",
       "AssetType": "AssetBundle",
       "Length": 44989191,
-      "CompressedLength": 0,
-      "Hash": "2fa1ee2fd039c8c10c0090fe1b64e219",
+      "CompressedLength": 35767305,
+      "Hash": "907a06fef5f55922ec401857b9d00488",
       "MD5": "5e3ba02b8044cf2f81029faf4ba905c5",
       "Dependencies": []
     },
@@ -585,32 +594,32 @@
       "Dependencies": []
     },
     {
-      "Name": "rix_mdnassetlibrary_64c24f76a34c7439f63ad6cd8f35c705.mtga",
+      "Name": "rix_mdnassetlibrary_fc282b13e88df7fc8616fd3e55a90ecd.mtga",
       "AssetType": "AssetBundle",
-      "Length": 89644,
-      "CompressedLength": 23393,
-      "Hash": "64c24f76a34c7439f63ad6cd8f35c705",
-      "MD5": "1f0c4e0964bbd6ae8e4782a2279d98ce",
+      "Length": 92069,
+      "CompressedLength": 23959,
+      "Hash": "fc282b13e88df7fc8616fd3e55a90ecd",
+      "MD5": "ad018116ca702ffe308e308747965293",
       "Dependencies": []
     },
     {
-      "Name": "rix_mdnassetlibrarypayloads_530203532ccb5f4d731f4aafc8789b06.mtga",
+      "Name": "rix_mdnassetlibrarypayloads_8d839590d1282905692f134c4a6b6237.mtga",
       "AssetType": "AssetBundle",
-      "Length": 87926200,
-      "CompressedLength": 33243017,
-      "Hash": "530203532ccb5f4d731f4aafc8789b06",
-      "MD5": "d3684c7af34bf14aaed53d0f561333a0",
+      "Length": 88843880,
+      "CompressedLength": 33361540,
+      "Hash": "8d839590d1282905692f134c4a6b6237",
+      "MD5": "8fd624b89dc460d1f05557b87fe0ffa7",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "rix_metataglibrary_e250f510122a373e2a20c2f3524f3b87.mtga",
+      "Name": "rix_metataglibrary_1abe52b0997d4e5e1c5617b23fe3dbf8.mtga",
       "AssetType": "AssetBundle",
-      "Length": 5272,
-      "CompressedLength": 1850,
-      "Hash": "e250f510122a373e2a20c2f3524f3b87",
-      "MD5": "0e1c0161c39ea1366c3025cb9c54fb53",
+      "Length": 5268,
+      "CompressedLength": 1841,
+      "Hash": "1abe52b0997d4e5e1c5617b23fe3dbf8",
+      "MD5": "b1c875be82ce00eea89e97ef139a60c9",
       "Dependencies": []
     },
     {
@@ -623,52 +632,108 @@
       "Dependencies": []
     },
     {
-      "Name": "setagnostic_cardart_08a7064a31290c53805d790cea6799b5.mtga",
+      "Name": "rna_cardart_6527111604d4e3c38b24f29189fde068.mtga",
+      "AssetType": "AssetBundle",
+      "Length": 62845447,
+      "CompressedLength": 49982585,
+      "Hash": "6527111604d4e3c38b24f29189fde068",
+      "MD5": "1bb1d3f50871f19c70b4e69b0093e4e3",
+      "Dependencies": []
+    },
+    {
+      "Name": "RNA_fa43a092b312f13a43d8b4045b94a9fa.mtga",
+      "AssetType": "Audio",
+      "Length": 11231684,
+      "CompressedLength": 11218224,
+      "Hash": "fa43a092b312f13a43d8b4045b94a9fa",
+      "MD5": "21884a032a1ea987200b3cb8a8253c02",
+      "Dependencies": []
+    },
+    {
+      "Name": "rna_mdnassetlibrary_b42bee081dfd25ab15cdf6acbf532a3a.mtga",
+      "AssetType": "AssetBundle",
+      "Length": 182341,
+      "CompressedLength": 55348,
+      "Hash": "b42bee081dfd25ab15cdf6acbf532a3a",
+      "MD5": "cf9a9060045515f16d42f4d1e8972449",
+      "Dependencies": []
+    },
+    {
+      "Name": "rna_mdnassetlibrarypayloads_f2c0e35a04f2aa93b09c93ab64ffe351.mtga",
+      "AssetType": "AssetBundle",
+      "Length": 122369428,
+      "CompressedLength": 39886841,
+      "Hash": "f2c0e35a04f2aa93b09c93ab64ffe351",
+      "MD5": "bfd06db3a7aafe1b81421c165bb727b5",
+      "Dependencies": [
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
+      ]
+    },
+    {
+      "Name": "rna_metataglibrary_5c45fae5f254d25f07bb3574003434cd.mtga",
+      "AssetType": "AssetBundle",
+      "Length": 5344,
+      "CompressedLength": 1881,
+      "Hash": "5c45fae5f254d25f07bb3574003434cd",
+      "MD5": "4a96628f77956a723eaa0dc0f9d5839a",
+      "Dependencies": []
+    },
+    {
+      "Name": "RNA_VO_8f60f57641131c3c96fd9ea0672ac96f.mtga",
+      "AssetType": "Audio",
+      "Length": 20469705,
+      "CompressedLength": 20390185,
+      "Hash": "8f60f57641131c3c96fd9ea0672ac96f",
+      "MD5": "7087713c6867f137e1cd647618fa375f",
+      "Dependencies": []
+    },
+    {
+      "Name": "setagnostic_cardart_727b748c57b1e66a7cb7c189e06fb78b.mtga",
       "AssetType": "AssetBundle",
       "Length": 1754082,
-      "CompressedLength": 0,
-      "Hash": "08a7064a31290c53805d790cea6799b5",
+      "CompressedLength": 1275414,
+      "Hash": "727b748c57b1e66a7cb7c189e06fb78b",
       "MD5": "230a3ad2f0d7bcaf1bc9228e03360448",
       "Dependencies": []
     },
     {
-      "Name": "setagnostic_mdnassetlibrary_312fa19a0b080af02d97a4cc371a71be.mtga",
+      "Name": "setagnostic_mdnassetlibrary_3b56e5a0c3d4241316cb140888012123.mtga",
       "AssetType": "AssetBundle",
-      "Length": 591748,
-      "CompressedLength": 209196,
-      "Hash": "312fa19a0b080af02d97a4cc371a71be",
-      "MD5": "c5207d99659d85ea3d792f878fe8738e",
+      "Length": 618061,
+      "CompressedLength": 219598,
+      "Hash": "3b56e5a0c3d4241316cb140888012123",
+      "MD5": "385dc5f692f8eac9315077ed14322c75",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "setagnostic_mdnassetlibrarypayloads_f7243ea378e30cf108b01582657dbc1c.mtga",
+      "Name": "setagnostic_mdnassetlibrarypayloads_286d4626daf6919296d52af1ecbebab7.mtga",
       "AssetType": "AssetBundle",
-      "Length": 240045000,
-      "CompressedLength": 81640050,
-      "Hash": "f7243ea378e30cf108b01582657dbc1c",
-      "MD5": "f71caf4ff65a7a725b199951a68b799f",
+      "Length": 265006908,
+      "CompressedLength": 94374745,
+      "Hash": "286d4626daf6919296d52af1ecbebab7",
+      "MD5": "42c3697b4d9003f49b607bff3f2fcc24",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga",
+      "Name": "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga",
       "AssetType": "AssetBundle",
-      "Length": 20497598,
-      "CompressedLength": 5370794,
-      "Hash": "6b1a9c21556b75f769b6ecca059595d1",
-      "MD5": "c537c87cdda779f4f2e19f767ea282ae",
+      "Length": 20644934,
+      "CompressedLength": 5364242,
+      "Hash": "b37bb6d0600df8fda34e72b2ae6a3597",
+      "MD5": "f795610e91c5ba8ea0d13f1464eea1c8",
       "Dependencies": []
     },
     {
-      "Name": "xln_cardart_30d4a717d9249b869045a27b2d5e6779.mtga",
+      "Name": "xln_cardart_853afa31a13dbd163b7eb67925170364.mtga",
       "AssetType": "AssetBundle",
-      "Length": 59350503,
-      "CompressedLength": 0,
-      "Hash": "30d4a717d9249b869045a27b2d5e6779",
-      "MD5": "e940ed2b484c3d38b322aea2367a5f5c",
+      "Length": 59087511,
+      "CompressedLength": 47688487,
+      "Hash": "853afa31a13dbd163b7eb67925170364",
+      "MD5": "2874e31a8a411d98c08ae1f41fe56745",
       "Dependencies": []
     },
     {
@@ -681,54 +746,54 @@
       "Dependencies": []
     },
     {
-      "Name": "xln_mdnassetlibrary_5cea4792d864a0bdbee6e2f14479cd91.mtga",
+      "Name": "xln_mdnassetlibrary_497d6c1c8f762fba6fe1e1100876e883.mtga",
       "AssetType": "AssetBundle",
-      "Length": 225781,
-      "CompressedLength": 72406,
-      "Hash": "5cea4792d864a0bdbee6e2f14479cd91",
-      "MD5": "854616c00ace6c18138c2a4f8abaded6",
+      "Length": 224741,
+      "CompressedLength": 72849,
+      "Hash": "497d6c1c8f762fba6fe1e1100876e883",
+      "MD5": "d5d6a305f38382062511cd53d18dfa93",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "xln_mdnassetlibrarypayloads_2bbfcfc6527ecb1500ae3e20fbd5d556.mtga",
+      "Name": "xln_mdnassetlibrarypayloads_812b9ee210ed1fab94b8b06023c6a816.mtga",
       "AssetType": "AssetBundle",
-      "Length": 124257248,
-      "CompressedLength": 47420235,
-      "Hash": "2bbfcfc6527ecb1500ae3e20fbd5d556",
-      "MD5": "b8b8a1ab7a449047581163a5c105d6e8",
+      "Length": 125714507,
+      "CompressedLength": 47659487,
+      "Hash": "812b9ee210ed1fab94b8b06023c6a816",
+      "MD5": "8fa5784a400ec18a6da0e38a79b652f7",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "xln_metataglibrary_8141fec0af0a8ecf7c4a24d802359fbc.mtga",
+      "Name": "xln_metataglibrary_8393fbc8309107b6f27de620ae468e5d.mtga",
       "AssetType": "AssetBundle",
       "Length": 5392,
-      "CompressedLength": 1927,
-      "Hash": "8141fec0af0a8ecf7c4a24d802359fbc",
-      "MD5": "c8e27d85a198216b8e47095e6ef9eee8",
+      "CompressedLength": 1928,
+      "Hash": "8393fbc8309107b6f27de620ae468e5d",
+      "MD5": "2e4e5030cec0235d8d25df05b1bb728d",
       "Dependencies": []
     },
     {
-      "Name": "xln_scenes_2a86c80fd3c8c9117d1f88ce0064bea1.mtga",
+      "Name": "xln_scenes_d2e8dc4f5a3f7e571a6196ef0db561fb.mtga",
       "AssetType": "AssetBundle",
-      "Length": 17010379,
-      "CompressedLength": 6189669,
-      "Hash": "2a86c80fd3c8c9117d1f88ce0064bea1",
-      "MD5": "d85010f7162fa5e162a524a7a43a7bdb",
+      "Length": 16988667,
+      "CompressedLength": 6177793,
+      "Hash": "d2e8dc4f5a3f7e571a6196ef0db561fb",
+      "MD5": "7572d1972c0b01ab902781ff1f5801ac",
       "Dependencies": [
-        "shaders_6b1a9c21556b75f769b6ecca059595d1.mtga"
+        "shaders_b37bb6d0600df8fda34e72b2ae6a3597.mtga"
       ]
     },
     {
-      "Name": "XLN_VO_5a2d1694e3963de360677aa09e69a46e.mtga",
+      "Name": "XLN_VO_f27c251319b29a60df0d3c0b8d080208.mtga",
       "AssetType": "Audio",
-      "Length": 9245964,
-      "CompressedLength": 9193263,
-      "Hash": "5a2d1694e3963de360677aa09e69a46e",
-      "MD5": "ce64cee321a78aa4b44135aa547ea760",
+      "Length": 8742386,
+      "CompressedLength": 8692522,
+      "Hash": "f27c251319b29a60df0d3c0b8d080208",
+      "MD5": "4ba478527389dcb3fa47a04b4af6947f",
       "Dependencies": []
     }
   ]
