@@ -2,6 +2,7 @@
 Util script for MTGA localization.
 Author: B.F.M.
 
+data_loc_*.mtga에서 영어와 한국어를 분리해 별도의 json 파일로 만든 뒤 스크립트를 돌린다.
 """
 import json
 
