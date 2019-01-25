@@ -7,30 +7,33 @@ Author: B.F.M.
 """
 import hashlib
 import os
+import sys
 
-def get_md5(full_path):
-    return hashlib.md5(file_as_bytes(open(full_path, 'rb'))).hexdigest()
+def get_md5(file_name):
+    return hashlib.md5(file_as_bytes(open(file_name, 'rb'))).hexdigest()
 
 def file_as_bytes(file):
     with file:
         return file.read()
 
-def get_size(full_path):
-    statinfo = os.stat(full_path)
+def get_size(file_name):
+    statinfo = os.stat(file_name)
     return statinfo.st_size
 
-if __name__ == "__main__":
+def main(file_name):
     template_path = "./template/"
-    full_path = "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga"
+    output_path = "./Downloads/"
     manifest_template_name = template_path+"template_downloads.manifest"
 
-    file_hash = get_md5(full_path)
-    file_size = get_size(full_path)
+    print("Make downloads.manifest")
+    print("loc: ", file_name)
+
+    file_hash = get_md5(file_name)
+    file_size = get_size(file_name)
 
     print("MD5: ", file_hash)
     print("Size: ", file_size)
 
-    print("Make downloads.manifest")
     manifest_template = file_as_bytes(open(manifest_template_name, 'rb'))
 
     content_new = manifest_template.decode() \
@@ -38,8 +41,22 @@ if __name__ == "__main__":
                 .replace('file_hash_here', file_hash) \
                 .replace('\r\n', '\n')
 
-    new_manifest = open("./downloads.manifest", 'w')
+    # ./Downloads/downloads.manifest로 복사
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+
+    new_manifest = open(output_path+"downloads.manifest", 'w')
     new_manifest.write(content_new)
 
     new_manifest.close()
-    print("End")
+    print("Make manifest end")
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        full_path = "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga"
+        print("No arg - default: ", full_path)
+    else:
+        full_path = sys.argv[1]
+        print("arg: ", full_path)
+
+    main(full_path)
