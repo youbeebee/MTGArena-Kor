@@ -1,0 +1,41 @@
+<사용 Tools>
+resources.assets 추출: AssetsBundleExtractor
+hex 수정: 010Editor
+dll 수정: dnSpy
+한글폰트 삽입: UnityL10nTool
+기타 파일 수정: 스크립트
+
+<방법1. 영어를 덮어쓰기>
+1. resources.assets에서 모노비헤비어 추출
+1.1. en과 kr의 순서를 바꿈
+1.2. Font_Default_KR, Font_Title_KR을 찾아서 변경
+2. UnityL10nTool로 한글폰트 추가
+3. Downloads/Data/data_loc_*.mtga의 en을 kr로 덮어씀(스크립트)
+3.1. 빠진 번역 추가(하단참고)
+3.2. downloads.manifest 파일 생성(스크립트)
+
+
+<방법2. 옵션에 한국어 넣기>
+1. resources.assets 수정
+1.1. Font_Default_KR, Font_Title_KR을 찾아서 RU로 변경
+
+2. UnityL10nTool로 한글폰트 삽입
+2.1. RU 폰트를 한글폰트로 변경
+2.2. Font_Default 시리즈 한글폰트로 변경
+
+3. data_loc파일 수정
+3.1. langkey "ko-KR"을 "KO"로 변경
+3.2. 빠진 번역 추가
+3.3. 매니패스트 파일 생성
+
+4. Assembly-CSharp.dll 수정
+4.1. I2.Loc.LocalizationManager의 EXTERNAL에"Korean" 추가
+4.2. LocalizationManager의 EXTERNAL에"KO" 추가
+
+
+<빠진 번역>
+도빈의 명민함 
+"id": 280002, "당신이 당신의 본단계에 순간마법 주문을 발동할 때마다, 당신은 도빈의 명민함을 소유자의 손으로 되돌릴 수 있다."
+
+불타는 나무 부족 기물파괴자
+"id": 279747, "불타는 나무 부족 기물파괴자가 공격할 때마다, 당신은 카드 한 장을 버릴 수 있다. 그렇게 한다면, 카드 한 장을 뽑는다."
