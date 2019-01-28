@@ -53,10 +53,10 @@ def main(file_name):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        full_path = "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga"
-        print("No arg - default: ", full_path)
+        file_name = "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga"
+        print("No arg - default: ", file_name)
     else:
-        full_path = sys.argv[1]
-        print("arg: ", full_path)
+        file_name = sys.argv[1]
+        print("arg: ", file_name)
 
-    main(full_path)
+    main(file_name)
