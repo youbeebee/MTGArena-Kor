@@ -72,7 +72,7 @@ def fill_missed_translation(token):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        loc_file_name = "data_loc_0d8e6d4e3a8685b70898170358e3e7e3.mtga"
+        loc_file_name = "data_loc_543fb2443bc2bee017bc11cbe08737ce.mtga"
         print("No arg - default: ", loc_file_name)
     else:
         loc_file_name = sys.argv[1]
