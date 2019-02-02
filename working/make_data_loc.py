@@ -25,8 +25,8 @@ def main(input_file_name):
     ko_data = list(filter(lambda dic: dic['langkey'] == 'ko-KR', data)).pop()
 
     print("Replacing...")
-    #replace_data(en_data, ko_data)
-    replace_data2(ko_data)
+    replace_data(en_data, ko_data)
+    #replace_data2(ko_data)
 
     print("Writing...")
     with open(output_file_name, 'bw') as fp:
