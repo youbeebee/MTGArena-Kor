@@ -36,6 +36,14 @@ dll 수정: dnSpy
 4.1. I2.Loc.LocalizationManager의 EXTERNAL에"Korean" 추가
 4.2. LocalizationManager의 EXTERNAL에"KO" 추가
 
+<방법3. 2에서 오류가 났을때>
+방법2의 1, 2 수행
+방법1의 1.1 수행
+방법1의 3 수행
+
+<>
+로그찍고 싶을 때
+UnityEngine.Debug.LogError("IsInternal: " + code);
 
 <빠진 번역>
 도빈의 명민함 
